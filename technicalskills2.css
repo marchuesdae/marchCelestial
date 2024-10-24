@@ -1,0 +1,2189 @@
+/* Technical Skills */
+.TechnicalSkills_1{
+    width: 650px; 
+    height: 274px; 
+    left: 700px; 
+    top: 1610px; 
+    position: absolute;
+  }
+  
+  .TechnicalSkills_2{
+    width: 450px; 
+    height: 65px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: #EA5C5A; 
+    font-size: 45px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 0.5px; 
+    -webkit-text-stroke-color: white;
+  }
+  
+  /* Mga DOTS sa Technical Skills Section */
+  .EllipsisHorizontalOutline19{
+    width: 54px; 
+    height: 50px; 
+    left: 97px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector2{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A;
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector3{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A;
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+
+  .EllipsisHorizontalOutline110{
+    width: 54px;
+    height: 50px; 
+    left: 150px;
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector4{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector5{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector6{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline111{
+    width: 54px; 
+    height: 50px; 
+    left: 200px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector7{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 21.88px;
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector8{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector9{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline112{
+    width: 54px; 
+    height: 50px; 
+    left: 254px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector10{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline113{
+    width: 54px; 
+    height: 50px; 
+    left: 94px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector11{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px;
+     top: 21.88px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+  }
+  
+  .Vector12{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector13{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline114{
+    width: 54px; 
+    height: 50px; 
+    left: 147px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector14 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector15 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector16 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline115{
+    width: 54px; 
+    height: 50px; 
+    left: 197px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector17 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector18 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector19 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline116{
+    width: 54px; 
+    height: 50px; 
+    left: 251px; 
+    top: 214px; 
+    position: absolute
+  }
+  
+  .Vector20 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline117{
+    width: 54px; 
+    height: 50px; 
+    left: 446px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector21 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector22 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector23 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline118{
+    width: 54px; 
+    height: 50px; 
+    left: 496px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector24 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector25 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector26 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline119{
+    width: 54px; 
+    height: 50px; 
+    left: 546px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector27 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector28 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector29 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline120{
+    width: 54px; 
+    height: 50px; 
+    left: 596px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector30 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline121{
+    width: 54px; 
+    height: 50px; 
+    left: 446px; 
+    top: 214px; 
+    position: absolute
+  }
+  
+  .Vector31 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector32 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector33 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline122{
+    width: 54px; 
+    height: 50px; 
+    left: 496px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector34 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector35 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector36 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline123{
+    width: 54px; 
+    height: 50px; 
+    left: 546px; 
+    top: 214px; 
+    position: absolute;
+  }
+  .Vector37 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector38 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector39 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline124{
+    width: 54px; 
+    height: 50px; 
+    left: 596px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector40 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  /* Skills Section */
+  .MedibangPaint{
+    width: 50px; 
+    height: 50px; 
+    left: 12px;
+    top: 214px; 
+    position: absolute; 
+    filter: drop-shadow(3px 3px 8px rgba(15, 69, 0, 0.5));
+  }
+  
+  .IbisPaintX{
+    width: 55px; 
+    height: 55px; 
+    left: 358px; 
+    top: 85px; 
+    position: absolute; 
+    filter: drop-shadow(3px 3px 8px rgba(15, 69, 0, 0.5));
+  }
+  
+  .AdobePhotoshop{
+    width: 50px; 
+    height: 50px; 
+    left: 12px; 
+    top: 85px; 
+    position: absolute; 
+    filter: drop-shadow(3px 3px 8px rgba(15, 69, 0, 0.5));
+  }
+  
+  .Filmora{
+    width: 90px; 
+    height: 50px; 
+    left: 340px; 
+    top: 214px; 
+    position: absolute; 
+    filter: drop-shadow(3px 3px 8px rgba(15, 69, 0, 0.5));
+  }
+  
+@media (max-width: 320px){
+  
+    .TechnicalSkills_1{
+      display: flex;
+        left: 50vw; 
+        top: 151vh; 
+        position: absolute;
+        width: 160px;
+        flex-direction: column;
+        overflow: hidden;
+      }
+
+    .TechnicalSkills_2{
+        width: 292px; 
+        height: 65px; 
+        left: 20px; 
+        top: 2vh; 
+        font-size: 15px; 
+        -webkit-text-stroke-width: 0.3px; 
+      }
+
+  .Vector,
+  .Vector2,
+  .Vector3,
+  .Vector4,
+  .Vector5,
+  .Vector6,
+  .Vector7,
+  .Vector8,
+  .Vector9,
+  .Vector10,
+  .Vector11,
+  .Vector12,
+  .Vector13,
+  .Vector14,
+  .Vector15,
+  .Vector16,
+  .Vector17,
+  .Vector18,
+  .Vector19,
+  .Vector20,
+  .Vector21,
+  .Vector22,
+  .Vector23,
+  .Vector24,
+  .Vector25,
+  .Vector26,
+  .Vector27,
+  .Vector28,
+  .Vector29,
+  .Vector30,
+  .Vector31,
+  .Vector32,
+  .Vector33,
+  .Vector34,
+  .Vector35,
+  .Vector36,
+  .Vector37,
+  .Vector38,
+  .Vector39,
+  .Vector40{
+    width: 4px;
+    height: 4px;
+    border: 0.1px black solid;
+  }
+
+  .AdobePhotoshop{
+    width: 30px; 
+    height: 30px; 
+    left: 12px; 
+    top: 8vh; 
+  }
+
+  .MedibangPaint{
+    width: 30px; 
+    height: 30px; 
+    left: 12px; 
+    top: 16vh; 
+  }
+
+  .IbisPaintX{
+    width: 30px; 
+    height: 30px; 
+    left: 12px; 
+    top: 24vh; 
+  }
+
+  .Filmora{
+    width: 55px; 
+    height: 30px; 
+    left: 0px; 
+    top: 32vh; 
+  }
+
+    .EllipsisHorizontalOutline19{
+      top: 6.5vh;
+      left: 18vw;
+    }
+
+  
+  .EllipsisHorizontalOutline110{
+    top: 6.5vh;
+    left: 34vw;
+  }
+
+  .EllipsisHorizontalOutline111{
+    top: 6.5vh;
+    left: 50vw;
+  }
+
+  .EllipsisHorizontalOutline112{
+    top: 6.5vh;
+    left: 67vw;
+  }
+
+  .Vector2 {left: -2px;}
+  .Vector3 {left: 17px;}
+  .Vector4 {left: -5px;}
+  .Vector5 {left: -15px;}
+  .Vector6 {left: -25px;}
+  .Vector7 {left: -45px;}
+  .Vector8 {left: -34px;}
+  .Vector9 {left: -24px;}
+  .Vector10 {left: -68px;}
+
+  .EllipsisHorizontalOutline113{
+    top: 15vh;
+    left: 18vw;
+  }
+
+  
+  .EllipsisHorizontalOutline114{
+    top: 15vh;
+    left: 34vw;
+  }
+
+  .EllipsisHorizontalOutline115{
+    top: 15vh;
+    left: 50vw;
+  }
+
+  .EllipsisHorizontalOutline116{
+    top: 15vh;
+    left: 67vw;
+  }
+
+  .Vector11 {left: 8px;}
+  .Vector12 {left: -2px;}
+  .Vector13 {left: 17px;}
+  .Vector14 {left: -25px;}
+  .Vector15 {left: -15px;}
+  .Vector16 {left: -5px;}
+  .Vector17 {left: -45px;}
+  .Vector18 {left: -34px;}
+  .Vector19 {left: -24px;}
+  .Vector20 {left: -68px;}
+
+  
+  .EllipsisHorizontalOutline117{
+    top: 22.5vh;
+    left: 18vw;
+  }
+
+  
+  .EllipsisHorizontalOutline118{
+    top: 22.5vh;
+    left: 34vw;
+  }
+
+  .EllipsisHorizontalOutline119{
+    top: 22.5vh;
+    left: 50vw;
+  }
+
+  .EllipsisHorizontalOutline120{
+    top: 22.5vh;
+    left: 67vw;
+  }
+
+  .Vector21 {left: 8px;}
+  .Vector22 {left: -2px;}
+  .Vector23 {left: 17px;}
+  .Vector24 {left: -25px;}
+  .Vector25 {left: -15px;}
+  .Vector26 {left: -5px;}
+  .Vector27 {left: -45px;}
+  .Vector28 {left: -34px;}
+  .Vector29 {left: -24px;}
+  .Vector30 {left: -68px;}
+
+  .EllipsisHorizontalOutline121{
+    top: 30.5vh;
+    left: 18vw;
+  }
+
+  
+  .EllipsisHorizontalOutline122{
+    top: 30.5vh;
+    left: 34vw;
+  }
+
+  .EllipsisHorizontalOutline123{
+    top: 30.5vh;
+    left: 50vw;
+  }
+
+  .EllipsisHorizontalOutline124{
+    top: 30.5vh;
+    left: 67vw;
+  }
+
+  .Vector31 {left: 8px;}
+  .Vector32 {left: -2px;}
+  .Vector33 {left: 17px;}
+  .Vector34 {left: -25px;}
+  .Vector35 {left: -5px;}
+  .Vector36 {left: -15px;}
+  .Vector37 {left: -45px;}
+  .Vector38 {left: -34px;}
+  .Vector39 {left: -24px;}
+  .Vector40 {left: -68px;}
+}
+
+@media(min-width: 375px)
+{
+  .TechnicalSkills_1 {
+    display: flex;
+    left: 50vw;
+    top: 151vh;
+    position: absolute;
+    width: 180px;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+    .TechnicalSkills_2{
+      width: 292px; 
+      height: 65px; 
+      left: 20px; 
+      top: 4.1vh; 
+      font-size: 17px; 
+      -webkit-text-stroke-width: 0.3px; 
+    }
+
+.Vector,
+.Vector2,
+.Vector3,
+.Vector4,
+.Vector5,
+.Vector6,
+.Vector7,
+.Vector8,
+.Vector9,
+.Vector10,
+.Vector11,
+.Vector12,
+.Vector13,
+.Vector14,
+.Vector15,
+.Vector16,
+.Vector17,
+.Vector18,
+.Vector19,
+.Vector20,
+.Vector21,
+.Vector22,
+.Vector23,
+.Vector24,
+.Vector25,
+.Vector26,
+.Vector27,
+.Vector28,
+.Vector29,
+.Vector30,
+.Vector31,
+.Vector32,
+.Vector33,
+.Vector34,
+.Vector35,
+.Vector36,
+.Vector37,
+.Vector38,
+.Vector39,
+.Vector40{
+  width: 4px;
+  height: 4px;
+  border: 0.1px black solid;
+}
+
+.AdobePhotoshop{
+  width: 30px; 
+  height: 30px; 
+  left: 12px; 
+  top: 8vh; 
+}
+
+.MedibangPaint{
+  width: 30px; 
+  height: 30px; 
+  left: 12px; 
+  top: 16vh; 
+}
+
+.IbisPaintX{
+  width: 30px; 
+  height: 30px; 
+  left: 12px; 
+  top: 24vh; 
+}
+
+.Filmora{
+  width: 55px; 
+  height: 30px; 
+  left: 0px; 
+  top: 32vh; 
+}
+
+  .EllipsisHorizontalOutline19{
+    top: 6.5vh;
+    left: 18vw;
+  }
+
+
+.EllipsisHorizontalOutline110{
+  top: 6.5vh;
+  left: 32vw;
+}
+
+.EllipsisHorizontalOutline111{
+  top: 6.5vh;
+  left: 46vw;
+}
+
+.EllipsisHorizontalOutline112{
+  top: 6.5vh;
+  left: 61.3vw;
+}
+
+.Vector2 {left: -2px;}
+.Vector3 {left: 17px;}
+.Vector4 {left: -5px;}
+.Vector5 {left: -15px;}
+.Vector6 {left: -25px;}
+.Vector7 {left: -45px;}
+.Vector8 {left: -34px;}
+.Vector9 {left: -24px;}
+.Vector10 {left: -68px;}
+
+.EllipsisHorizontalOutline113{
+  top: 15vh;
+  left: 18vw;
+}
+
+
+.EllipsisHorizontalOutline114{
+  top: 15vh;
+  left: 32vw;
+}
+
+.EllipsisHorizontalOutline115{
+  top: 15vh;
+  left: 46vw;
+}
+
+.EllipsisHorizontalOutline116{
+  top: 15vh;
+  left: 61.3vw;
+}
+
+.Vector11 {left: 8px;}
+.Vector12 {left: -2px;}
+.Vector13 {left: 17px;}
+.Vector14 {left: -25px;}
+.Vector15 {left: -15px;}
+.Vector16 {left: -5px;}
+.Vector17 {left: -45px;}
+.Vector18 {left: -34px;}
+.Vector19 {left: -24px;}
+.Vector20 {left: -68px;}
+
+
+.EllipsisHorizontalOutline117{
+  top: 22.5vh;
+  left: 18vw;
+}
+
+
+.EllipsisHorizontalOutline118{
+  top: 22.5vh;
+  left: 32vw;
+}
+
+.EllipsisHorizontalOutline119{
+  top: 22.5vh;
+  left: 46vw;
+}
+
+.EllipsisHorizontalOutline120{
+  top: 22.5vh;
+  left: 61.3vw;
+}
+
+.Vector21 {left: 8px;}
+.Vector22 {left: -2px;}
+.Vector23 {left: 17px;}
+.Vector24 {left: -25px;}
+.Vector25 {left: -15px;}
+.Vector26 {left: -5px;}
+.Vector27 {left: -45px;}
+.Vector28 {left: -34px;}
+.Vector29 {left: -24px;}
+.Vector30 {left: -68px;}
+
+.EllipsisHorizontalOutline121{
+  top: 30.5vh;
+  left: 18vw;
+}
+
+
+.EllipsisHorizontalOutline122{
+  top: 30.5vh;
+  left: 32vw;
+}
+
+.EllipsisHorizontalOutline123{
+  top: 30.5vh;
+  left: 46vw;
+}
+
+.EllipsisHorizontalOutline124{
+  top: 30.5vh;
+  left: 61.3vw;
+}
+
+.Vector31 {left: 8px;}
+.Vector32 {left: -2px;}
+.Vector33 {left: 17px;}
+.Vector34 {left: -25px;}
+.Vector35 {left: -5px;}
+.Vector36 {left: -15px;}
+.Vector37 {left: -45px;}
+.Vector38 {left: -34px;}
+.Vector39 {left: -24px;}
+.Vector40 {left: -68px;}
+  }
+
+
+@media (min-width: 768px){
+  
+  .TechnicalSkills_1{
+    display: flex;
+      left: 50vw; 
+      top: 188vh; 
+      position: absolute;
+      width: 50vw;
+      height: 17vw;
+      flex-direction: column;
+
+      overflow: hidden;
+    }
+
+  .TechnicalSkills_2{
+      width: 292px; 
+      height: 65px; 
+      left: 20px; 
+      top: -1vh; 
+      font-size: 30px; 
+      -webkit-text-stroke-width: 0.3px; 
+    }
+
+.Vector,
+.Vector2,
+.Vector3,
+.Vector4,
+.Vector5,
+.Vector6,
+.Vector7,
+.Vector8,
+.Vector9,
+.Vector10,
+.Vector11,
+.Vector12,
+.Vector13,
+.Vector14,
+.Vector15,
+.Vector16,
+.Vector17,
+.Vector18,
+.Vector19,
+.Vector20,
+.Vector21,
+.Vector22,
+.Vector23,
+.Vector24,
+.Vector25,
+.Vector26,
+.Vector27,
+.Vector28,
+.Vector29,
+.Vector30,
+.Vector31,
+.Vector32,
+.Vector33,
+.Vector34,
+.Vector35,
+.Vector36,
+.Vector37,
+.Vector38,
+.Vector39,
+.Vector40{
+  width: 4px;
+  height: 4px;
+  border: 0.1px black solid;
+}
+
+.AdobePhotoshop{
+  width: 30px; 
+  height: 30px; 
+  left: 12px; 
+  top: 8vh; 
+}
+
+.MedibangPaint{
+  display: flex;
+  width: 30px; 
+  height: 30px; 
+  left: 12px; 
+  top: 16vh; 
+}
+
+.IbisPaintX{
+  width: 30px; 
+  height: 30px; 
+  left: 25vw; 
+  top: 8vh; 
+}
+
+.Filmora{
+  width: 55px; 
+  height: 30px; 
+  left: 23.5vw; 
+  top: 16vh; 
+}
+
+  .EllipsisHorizontalOutline19{
+    top: 6.5vh;
+    left: 8vw;
+  }
+
+
+.EllipsisHorizontalOutline110{
+  top: 6.5vh;
+  left: 15vw;
+}
+
+.EllipsisHorizontalOutline111{
+  top: 6.5vh;
+  left: 22vw;
+}
+
+.EllipsisHorizontalOutline112{
+  top: 6.5vh;
+  left: 29vw;
+}
+
+.Vector2 {left: -2px;}
+.Vector3 {left: 17px;}
+.Vector4 {left: -5px;}
+.Vector5 {left: -15px;}
+.Vector6 {left: -25px;}
+.Vector7 {left: -45px;}
+.Vector8 {left: -34px;}
+.Vector9 {left: -24px;}
+.Vector10 {left: -68px;}
+
+.EllipsisHorizontalOutline113{
+  top: 15vh;
+  left: 8vw;
+}
+
+
+.EllipsisHorizontalOutline114{
+  top: 15vh;
+  left: 15vw;
+}
+
+.EllipsisHorizontalOutline115{
+  top: 15vh;
+  left: 22vw;
+}
+
+.EllipsisHorizontalOutline116{
+  top: 15vh;
+  left: 29vw;
+}
+
+.Vector11 {left: 8px;}
+.Vector12 {left: -2px;}
+.Vector13 {left: 17px;}
+.Vector14 {left: -25px;}
+.Vector15 {left: -15px;}
+.Vector16 {left: -5px;}
+.Vector17 {left: -45px;}
+.Vector18 {left: -34px;}
+.Vector19 {left: -24px;}
+.Vector20 {left: -68px;}
+
+    /* !I added Flex to let me know if there's an overflow >:(*/
+    .EllipsisHorizontalOutline117,
+    .EllipsisHorizontalOutline118, 
+    .EllipsisHorizontalOutline119,
+    .EllipsisHorizontalOutline120,
+    .EllipsisHorizontalOutline121,
+    .EllipsisHorizontalOutline122,
+    .EllipsisHorizontalOutline123,
+    .EllipsisHorizontalOutline124{
+      display: flex;
+    }
+
+.EllipsisHorizontalOutline117{
+  top: 6.5vh;
+  left: 31.5vw;
+}
+
+
+.EllipsisHorizontalOutline118{
+  top: 6.5vh;
+  left: 38.5vw;
+}
+
+.EllipsisHorizontalOutline119{
+  top: 6.5vh;
+  left: 45vw;
+}
+
+.EllipsisHorizontalOutline120{
+  top: 6.5vh;
+  left: 52vw;
+}
+
+.Vector21 {left: 8px;}
+.Vector22 {left: -2px;}
+.Vector23 {left: 17px;}
+.Vector24 {left: -25px;}
+.Vector25 {left: -15px;}
+.Vector26 {left: -5px;}
+.Vector27 {left: -45px;}
+.Vector28 {left: -34px;}
+.Vector29 {left: -24px;}
+.Vector30 {left: -68px;}
+
+.EllipsisHorizontalOutline121{
+  top: 15vh;
+  left: 31.5vw;
+}
+
+
+.EllipsisHorizontalOutline122{
+  top: 15vh;
+  left: 38.5vw;
+}
+
+.EllipsisHorizontalOutline123{
+  top: 15vh;
+  left: 45vw;
+}
+
+.EllipsisHorizontalOutline124{
+  top: 15vh;
+  left: 52vw;
+}
+
+.Vector31 {left: 8px;}
+.Vector32 {left: -2px;}
+.Vector33 {left: 17px;}
+.Vector34 {left: -25px;}
+.Vector35 {left: -5px;}
+.Vector36 {left: -15px;}
+.Vector37 {left: -45px;}
+.Vector38 {left: -34px;}
+.Vector39 {left: -24px;}
+.Vector40 {left: -68px;}
+}
+
+@media(min-width: 1024px){
+  .EllipsisHorizontalOutline19{left: 8vw;}
+  .EllipsisHorizontalOutline110{left: 13vw;}
+  .EllipsisHorizontalOutline111{left: 18vw;}
+  .EllipsisHorizontalOutline112{left: 23.3vw;}
+
+  .EllipsisHorizontalOutline113{left: 8vw;}
+  .EllipsisHorizontalOutline114{left: 13vw;}
+  .EllipsisHorizontalOutline115{left: 18vw;}
+  .EllipsisHorizontalOutline116{left: 23.3vw;}
+
+  .EllipsisHorizontalOutline117{left: 31vw;}
+  .EllipsisHorizontalOutline118{left: 36vw;}
+  .EllipsisHorizontalOutline119{left: 41vw;}
+  .EllipsisHorizontalOutline120{left: 46.3vw;}
+
+  .EllipsisHorizontalOutline121{left: 31vw;}
+  .EllipsisHorizontalOutline122{left: 36vw;}
+  .EllipsisHorizontalOutline123{left: 41vw;}
+  .EllipsisHorizontalOutline124{left: 46.3vw;}
+}
+
+@media(min-width: 1366px){
+  .TechnicalSkills_1{
+    width: 650px; 
+    height: 274px; 
+    left: 700px; 
+    top: 1550px; 
+    position: absolute;
+  }
+  
+  .TechnicalSkills_2{
+    width: 450px; 
+    height: 65px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: #EA5C5A; 
+    font-size: 45px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 0.5px; 
+    -webkit-text-stroke-color: white;
+  }
+  
+  /* Mga DOTS sa Technical Skills Section */
+  .EllipsisHorizontalOutline19{
+    width: 54px; 
+    height: 50px; 
+    left: 97px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector2{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A;
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector3{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A;
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+
+  .EllipsisHorizontalOutline110{
+    width: 54px;
+    height: 50px; 
+    left: 150px;
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector4{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector5{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector6{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline111{
+    width: 54px; 
+    height: 50px; 
+    left: 200px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector7{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 21.88px;
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector8{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector9{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline112{
+    width: 54px; 
+    height: 50px; 
+    left: 254px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector10{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #9AA972; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline113{
+    width: 54px; 
+    height: 50px; 
+    left: 94px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector11{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px;
+     top: 21.88px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+  }
+  
+  .Vector12{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .Vector13{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline114{
+    width: 54px; 
+    height: 50px; 
+    left: 147px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector14 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector15 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector16 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline115{
+    width: 54px; 
+    height: 50px; 
+    left: 197px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector17 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector18 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector19 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline116{
+    width: 54px; 
+    height: 50px; 
+    left: 251px; 
+    top: 214px; 
+    position: absolute
+  }
+  
+  .Vector20 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline117{
+    width: 54px; 
+    height: 50px; 
+    left: 446px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector21 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector22 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector23 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline118{
+    width: 54px; 
+    height: 50px; 
+    left: 496px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector24 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector25 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector26 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline119{
+    width: 54px; 
+    height: 50px; 
+    left: 546px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector27 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector28 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector29 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline120{
+    width: 54px; 
+    height: 50px; 
+    left: 596px; 
+    top: 85px; 
+    position: absolute;
+  }
+  
+  .Vector30 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline121{
+    width: 54px; 
+    height: 50px; 
+    left: 446px; 
+    top: 214px; 
+    position: absolute
+  }
+  
+  .Vector31 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector32 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector33 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline122{
+    width: 54px; 
+    height: 50px; 
+    left: 496px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector34 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector35 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector36 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline123{
+    width: 54px; 
+    height: 50px; 
+    left: 546px; 
+    top: 214px; 
+    position: absolute;
+  }
+  .Vector37 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector38 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .Vector39 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  .EllipsisHorizontalOutline124{
+    width: 54px; 
+    height: 50px; 
+    left: 596px; 
+    top: 214px; 
+    position: absolute;
+  }
+  
+  .Vector40 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #9AA972;
+    border: 1px black solid;
+    border-radius: 50%;
+  }
+  
+  /* Skills Section */
+  .MedibangPaint{
+    width: 50px; 
+    height: 50px; 
+    left: 12px;
+    top: 214px; 
+    position: absolute; 
+    filter: drop-shadow(3px 3px 8px rgba(15, 69, 0, 0.5));
+  }
+  
+  .IbisPaintX{
+    width: 55px; 
+    height: 55px; 
+    left: 358px; 
+    top: 85px; 
+    position: absolute; 
+    filter: drop-shadow(3px 3px 8px rgba(15, 69, 0, 0.5));
+  }
+  
+  .AdobePhotoshop{
+    width: 50px; 
+    height: 50px; 
+    left: 12px; 
+    top: 85px; 
+    position: absolute; 
+    filter: drop-shadow(3px 3px 8px rgba(15, 69, 0, 0.5));
+  }
+  
+  .Filmora{
+    width: 90px; 
+    height: 50px; 
+    left: 340px; 
+    top: 214px; 
+    position: absolute; 
+    filter: drop-shadow(3px 3px 8px rgba(15, 69, 0, 0.5));
+  }
+}
+
+@media (min-width: 1440px){
+  
+  .TechnicalSkills_1{
+    display: flex;
+      left: 50vw; 
+      top: 190vh; 
+      position: absolute;
+      width: 50vw;
+      height: 50vw;
+      flex-direction: column;
+
+      overflow: hidden;
+    }
+
+  .TechnicalSkills_2{
+      width: 50vw; 
+      height: 100px; 
+      left: 20px; 
+      top: 23vh; 
+      font-size: 8vh; 
+      -webkit-text-stroke-width: 0.3px; 
+    }
+
+.Vector,
+.Vector2,
+.Vector3,
+.Vector4,
+.Vector5,
+.Vector6,
+.Vector7,
+.Vector8,
+.Vector9,
+.Vector10,
+.Vector11,
+.Vector12,
+.Vector13,
+.Vector14,
+.Vector15,
+.Vector16,
+.Vector17,
+.Vector18,
+.Vector19,
+.Vector20,
+.Vector21,
+.Vector22,
+.Vector23,
+.Vector24,
+.Vector25,
+.Vector26,
+.Vector27,
+.Vector28,
+.Vector29,
+.Vector30,
+.Vector31,
+.Vector32,
+.Vector33,
+.Vector34,
+.Vector35,
+.Vector36,
+.Vector37,
+.Vector38,
+.Vector39,
+.Vector40{
+  width: 8px;
+  height: 8px;
+  border: 0.1px black solid;
+}
+
+.AdobePhotoshop{
+  width: 60px; 
+  height: 60px; 
+  left: 12px; 
+  top: 35vh; 
+}
+
+.MedibangPaint{
+  width: 60px; 
+  height: 60px; 
+  left: 12px; 
+  top: 52vh; 
+}
+
+.IbisPaintX{
+  width: 60px; 
+  height: 60px; 
+  left: 25vw; 
+  top: 35vh; 
+}
+
+.Filmora{
+  width: 110px; 
+  height: 60px; 
+  left: 23.4vw; 
+  top: 52vh; 
+}
+
+  .EllipsisHorizontalOutline19{
+    top: 35vh;
+    left: 7vw;
+  }
+
+
+.EllipsisHorizontalOutline110{
+  top: 35vh;
+  left: 12vw;
+}
+
+.EllipsisHorizontalOutline111{
+  top: 35vh;
+  left: 15vw;
+}
+
+.EllipsisHorizontalOutline112{
+  top: 35vh;
+  left: 16vw;
+}
+
+.Vector2 {left: 25px;}
+.Vector3 {left: 48px;}
+.Vector4 {left: 50px;}
+.Vector5 {left: 25px;}
+.Vector6 {left: 0px;}
+.Vector7 {left: 53px;}
+.Vector8 {left: 30px;}
+.Vector9 {left: 80px;}
+.Vector10 {left: 92px;}
+
+.EllipsisHorizontalOutline113{
+  top: 53vh;
+  left: 7.5vw;
+}
+
+
+.EllipsisHorizontalOutline114{
+  top: 53vh;
+  left: 12vw;
+}
+
+.EllipsisHorizontalOutline115{
+  top: 53vh;
+  left: 15vw;
+}
+
+.EllipsisHorizontalOutline116{
+  top: 53vh;
+  left: 16vw;
+}
+
+.Vector11 {left: 1px;}
+.Vector12 {left: 41px;}
+.Vector13 {left: 19px;}
+.Vector14 {left: 50px;}
+.Vector15 {left: 25px;}
+.Vector16 {left: 0px;}
+.Vector17 {left: 53px;}
+.Vector18 {left: 30px;}
+.Vector19 {left: 80px;}
+.Vector20 {left: 92px;}
+
+
+.EllipsisHorizontalOutline117{
+  top: 35vh;
+  left: 31vw;
+}
+
+
+.EllipsisHorizontalOutline118{
+  top: 35vh;
+  left: 36vw;
+}
+
+.EllipsisHorizontalOutline119{
+  top: 35vh;
+  left: 39vw;
+}
+
+.EllipsisHorizontalOutline120{
+  top: 35vh;
+  left: 40vw;
+}
+
+.Vector21 {left: 25px;}
+.Vector22 {left: 1px;}
+.Vector23 {left: 48px;}
+.Vector24 {left: 50px;}
+.Vector25 {left: 25px;}
+.Vector26 {left: 0px;}
+.Vector27 {left: 53px;}
+.Vector28 {left: 30px;}
+.Vector29 {left: 80px;}
+.Vector30 {left: 92px;}
+
+.EllipsisHorizontalOutline121{
+  top: 53vh;
+  left: 31vw;
+}
+
+
+.EllipsisHorizontalOutline122{
+  top: 53vh;
+  left: 36vw;
+}
+
+.EllipsisHorizontalOutline123{
+  top: 53vh;
+  left: 39vw;
+}
+
+.EllipsisHorizontalOutline124{
+  top: 53vh;
+  left: 40vw;
+}
+
+.Vector31 {left: 25px;}
+.Vector32 {left: 1px;}
+.Vector33 {left: 48px;}
+.Vector34 {left: 25px;}
+.Vector35 {left: 50px;}
+.Vector36 {left: 0px;}
+.Vector37 {left: 53px;}
+.Vector38 {left: 30px;}
+.Vector39 {left: 80px;}
+.Vector40 {left: 92px;}
+}

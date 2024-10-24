@@ -1,0 +1,1006 @@
+body {
+  overflow-x: hidden; 
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.Heart, .Heart2, .Heart3, .Heart4 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+}
+
+.Heart { top: 154px; left: 100px; }
+.Heart2 { top: 234px; left: 100px; }
+.Heart3 { top: 309px; left: 100px; }
+.Heart4 { top: 381px; left: 100px; }
+
+
+.Icon i, .Iconii {
+  color: #EA5C5A; 
+  font-size: 16px; 
+}
+
+.DiscOutline1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+  top: 0px; left: 0px;
+}
+
+.DiscOutline1 i {
+  font-size: 80px; 
+  color: #EA5C5A; 
+}
+
+/** First Panel */
+#home-section {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;    
+  justify-content: center;
+  height: 100vh; 
+}
+
+.Group16, .Rectangle32 {
+  width: 100vw; 
+  height: 100vh; 
+  position: absolute;
+  left: 0; top: 0;
+  overflow: hidden;
+}
+
+.Rectangle32 {
+  background: #9AA972;
+}
+
+.chibiski3 {
+  width: 9.5vw; 
+  height: 9.5vw; 
+  position: absolute;
+  left: 0; top: 0;
+}
+
+.MarchelNgujo { 
+  position: absolute; 
+  color: rgb(255, 255, 255); 
+  font-size: 3vh; 
+  font-family: Bevan; 
+  font-weight: 400; 
+  word-wrap: break-word; 
+  left: 100px; 
+  top: 35px;
+}
+
+.Ellipse8 {
+  width: 31.6vw; 
+  height: 31.6vw;
+  position: absolute;
+  background: linear-gradient(180deg, #F1E9D2 0%, #9AA972 100%); 
+  border-radius: 50%;
+  left: 35vw; 
+  top: 20vh;
+}
+
+.March, .Bsit3C {
+  position: absolute;
+  color: transparent; 
+  font-size: 6.6vw; 
+  font-family: Bevan; 
+  font-weight: 400; 
+  -webkit-text-stroke-width: 1px; 
+  -webkit-text-stroke-color: white;
+}
+
+.March { left: 10vw; top: 45vh; }
+.Bsit3C { left: 60vw; top: 45vh; }
+
+.ImagePhotoroom11 {
+  width: 31.6vw;
+  height: 31.6vw;
+  position: absolute;
+  border-radius: 50%;
+  left: 35vw; 
+  top: 20vh;
+}
+
+.AboutMe, .CebuCityPhilippines {
+  position: absolute;
+  color: #F1E9D2;
+  font-family: Comfortaa;
+}
+
+.AboutMe {
+  right: 5vw;
+  top: 5vh;
+  font-size: 1vw;
+}
+
+.CebuCityPhilippines {
+  left: 5vw;
+  bottom: 3vh;
+  font-size: 1vw;
+  font-weight: 600;
+}
+
+.IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+  left: 10vw;
+  top: 60.5vh;
+  position: absolute;
+  color: #F1E9D2;
+  font-size: 15px;
+  font-family: Comfortaa;
+  font-weight: 100;
+  line-height: 1;
+}
+
+
+/* Media for First Panel - 320px */
+/* *Mobile */
+@media (max-width: 320px) {
+
+
+  .Group16, .Rectangle32 {
+    display: flex;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+  }
+
+  .chibiski3 {
+      width: 20vw;
+      height: 20vw;
+      left: 1vw;
+      top: 0.5vh;
+  }
+
+  .MarchelNgujo {
+      left: 15.5vw;
+      top: 3.5vh;
+      font-size: 2vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 80vw;
+      height: 80vw;
+      left: 10vw;
+      top: 25vh;
+  }
+
+  .March {
+      font-size: 10vw;
+      top: 67.5vh;
+  }
+
+  .Bsit3C {
+    font-size: 10vw;
+    top: 17.5vh;
+    left: 45vw;
+}
+
+  .AboutMe {
+    right: 10vw;
+    top: 4.5vh;
+    font-size: 2vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 2vw;
+      top: 74.5vh;
+  }
+
+  .CebuCityPhilippines {
+    left: 10vw;
+    bottom: 3vh;
+    font-size: 2vw;
+    font-weight: 600;
+  }
+
+  
+}
+
+/* *Mobile */
+@media (min-width: 321px) {
+  .Group16, .Rectangle32 {
+      width: 100vw;
+      height: 100vh;
+  }
+
+  .chibiski3 {
+      width: 20vw;
+      height: 20vw;
+      left: 1vw;
+      top: 0.5vh;
+  }
+
+  .MarchelNgujo {
+      left: 15.5vw;
+      top: 3.5vh;
+      font-size: 2vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 80vw;
+      height: 80vw;
+      left: 10vw;
+      top: 25vh;
+  }
+
+  .March {
+      font-size: 10vw;
+      top: 67.5vh;
+  }
+
+  .Bsit3C {
+    font-size: 10vw;
+    top: 17.5vh;
+    left: 45vw;
+}
+
+  .AboutMe {
+    right: 10vw;
+    top: 4.5vh;
+    font-size: 2vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 2vw;
+      top: 74.5vh;
+  }
+
+  .CebuCityPhilippines {
+    left: 10vw;
+    bottom: 3vh;
+    font-size: 2vw;
+    font-weight: 600;
+
+  }
+}
+
+/* *Mobile */
+@media (min-width: 375px) {
+  
+
+  .chibiski3 {
+      width: 20vw;
+      height: 20vw;
+      left: 1vw;
+      top: 0.5vh;
+  }
+
+  .MarchelNgujo {
+      left: 15.5vw;
+      top: 3.5vh;
+      font-size: 2vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 80vw;
+      height: 80vw;
+      left: 10vw;
+      top: 25vh;
+  }
+
+  .March {
+      top: 75.5vh;
+  }
+
+  .Bsit3C {
+    font-size: 10vw;
+    top: 17.5vh;
+    left: 45vw;
+}
+
+  .AboutMe {
+    right: 10vw;
+    top: 4.5vh;
+    font-size: 2vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 2vw;
+      top: 83vh;
+  }
+
+  .CebuCityPhilippines {
+    left: 10vw;
+    bottom: 3vh;
+    font-size: 2vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 376px) {
+  
+
+  .chibiski3 {
+      width: 20vw;
+      height: 20vw;
+      left: 1vw;
+      top: 0.5vh;
+  }
+
+  .MarchelNgujo {
+      left: 15.5vw;
+      top: 3.5vh;
+      font-size: 2vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 80vw;
+      height: 80vw;
+      left: 10vw;
+      top: 25vh;
+  }
+
+  .March {
+      top: 75.5vh;
+  }
+
+  .Bsit3C {
+    font-size: 10vw;
+    top: 17.5vh;
+    left: 45vw;
+}
+
+  .AboutMe {
+    right: 10vw;
+    top: 4.5vh;
+    font-size: 2vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 2vw;
+      top: 83vh;
+  }
+
+  .CebuCityPhilippines {
+    left: 10vw;
+    bottom: 3vh;
+    font-size: 2vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 425px) {
+  
+  .Rectangle32 {
+    height: 90vh;
+  }
+
+  .chibiski3 {
+      width: 18vw;
+      height: 18vw;
+      left: 1vw;
+      top: 0.5vh;
+  }
+
+  .MarchelNgujo {
+      left: 15.5vw;
+      top: 4.5vh;
+      font-size: 2vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 60vw;
+      height: 60vw;
+      left: 15vw;
+      top: 22vh;
+  }
+
+  .March {
+      top: 63vh;
+  }
+
+  .Bsit3C {
+    font-size: 10vw;
+    top: 14vh;
+    left: 37vw;
+}
+
+  .AboutMe {
+    right: 20vw;
+    top: 5vh;
+    font-size: 2vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 2vw;
+      top: 72vh;
+  }
+
+  .CebuCityPhilippines {
+    left: 10vw;
+    bottom: 14vh;
+    font-size: 2vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 426px) {
+  
+  .Rectangle32 {
+    height: 90vh;
+  }
+
+  .chibiski3 {
+      width: 18vw;
+      height: 18vw;
+      left: 1vw;
+      top: 0.5vh;
+  }
+
+  .MarchelNgujo {
+      left: 15.5vw;
+      top: 4.5vh;
+      font-size: 2vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 60vw;
+      height: 60vw;
+      left: 15vw;
+      top: 22vh;
+  }
+
+  .March {
+      top: 63vh;
+  }
+
+  .Bsit3C {
+    font-size: 10vw;
+    top: 14vh;
+    left: 37vw;
+}
+
+  .AboutMe {
+    right: 20vw;
+    top: 5vh;
+    font-size: 2vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 2vw;
+      top: 72vh;
+  }
+
+  .CebuCityPhilippines {
+    left: 10vw;
+    bottom: 14vh;
+    font-size: 2vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 475px) {
+  
+  .Rectangle32 {
+    height: 100vh;
+  }
+
+  .chibiski3 {
+      width: 18vw;
+      height: 18vw;
+      left: 1vw;
+      top: 0.5vh;
+  }
+
+  .MarchelNgujo {
+      left: 15.5vw;
+      top: 5vh;
+      font-size: 2vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 60vw;
+      height: 60vw;
+      left: 20vw;
+      top: 25vh;
+  }
+
+  .March {
+      top: 71.5vh;
+  }
+
+  .Bsit3C {
+    font-size: 10vw;
+    top: 15.5vh;
+    left: 45vw;
+}
+
+  .AboutMe {
+    right: 10vw;
+    top: 5.5vh;
+    font-size: 2vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 2vw;
+      top: 81vh;
+  }
+
+  .CebuCityPhilippines {
+    left: 10vw;
+    bottom: 3vh;
+    font-size: 2vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 648px) {
+  
+  .Rectangle32 {
+    height: 100vh;
+  }
+
+  .chibiski3 {
+      width: 15vw;
+      height: 15vw;
+      left: -2vw;
+      top: 0.5vh;
+  }
+
+  .MarchelNgujo {
+      left: 10vw;
+      top: 5vh;
+      font-size: 3vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 40vw;
+      height: 40vw;
+      left: 30vw;
+      top: 22vh;
+  }
+
+  .March {
+      top: 40vh;
+      font-size: 7vw;
+      left: 5vw;
+  }
+
+  .Bsit3C {
+    font-size: 7vw;
+    top: 40vh;
+    left: 63vw;
+}
+
+  .AboutMe {
+    right: 5vw;
+    top: 6vh;
+    font-size: 1.5vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 1.2vw;
+      top: 49vh;
+      left: 5vw;
+  }
+
+  .CebuCityPhilippines {
+    left: 5vw;
+    bottom: 5vh;
+    font-size: 1.5vw;
+  }
+}
+
+
+@media (min-width: 768px) {
+  
+  .Rectangle32 {
+    height: 100vh;
+  }
+
+  .chibiski3 {
+      width: 9.5vw;
+      height: 9.5vw;
+      left: 0;
+      top: 0;
+  }
+
+  .MarchelNgujo {
+    left: 7vw;
+      top: 3.5vh;
+      font-size: 3vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 50vw;
+      height: 50vw;
+      left: 25.5vw;
+      top: 22vh;
+  }
+
+  .March {
+      top: 50vh;
+      font-size: 6vw; 
+      left: 4vw;
+  }
+
+  .Bsit3C {
+    font-size: 6vw; 
+    top: 50vh;
+    left: 68vw;
+}
+
+  .AboutMe {
+    right: 5vw;
+    top: 5vh;
+    font-size: 1.5vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 1.2vw;
+      top: 60vh;
+      left: 4vw;
+  }
+
+  .CebuCityPhilippines {
+    left: 4vw;
+    bottom: 5vh;
+    font-size: 1.2vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 769px) {
+  
+  .Rectangle32 {
+    height: 100vh;
+  }
+
+  .chibiski3 {
+      width: 9.5vw;
+      height: 9.5vw;
+      left: 0;
+      top: 0;
+  }
+
+  .MarchelNgujo {
+    left: 7vw;
+      top: 3.5vh;
+      font-size: 3vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 50vw;
+      height: 50vw;
+      left: 25.5vw;
+      top: 22vh;
+  }
+
+  .March {
+      top: 50vh;
+      font-size: 6vw; 
+      left: 4vw;
+  }
+
+  .Bsit3C {
+    font-size: 6vw; 
+    top: 50vh;
+    left: 68vw;
+}
+
+  .AboutMe {
+    right: 5vw;
+    top: 5vh;
+    font-size: 1.5vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 1.2vw;
+      top: 60vh;
+      left: 4vw;
+  }
+
+  .CebuCityPhilippines {
+    left: 4vw;
+    bottom: 5vh;
+    font-size: 1.2vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 1024px) {
+  
+  .Rectangle32 {
+    height: 100vh;
+  }
+
+  .chibiski3 {
+      width: 9.5vw;
+      height: 9.5vw;
+      left: 0;
+      top: 0;
+  }
+
+  .MarchelNgujo {
+    left: 7vw;
+      top: 4.5vh;
+      font-size: 3vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 40vw;
+      height: 40vw;
+      left: 30vw;
+      top: 20vh;
+  }
+
+  .March {
+      top: 50vh;
+      font-size: 6vw; 
+      left: 4vw;
+  }
+
+  .Bsit3C {
+    font-size: 6vw; 
+    top: 50vh;
+    left: 68vw;
+}
+
+  .AboutMe {
+    right: 5vw;
+    top: 5.5vh;
+    font-size: 1.2vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 1.2vw;
+      top: 65vh;
+      left: 4vw;
+  }
+
+  .CebuCityPhilippines {
+    left: 4vw;
+    bottom: 5vh;
+    font-size: 1.2vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 1235px) {
+  
+  .Rectangle32 {
+    height: 100vh;
+  }
+
+  .chibiski3 {
+      width: 9.5vw;
+      height: 9.5vw;
+      left: 0;
+      top: 0;
+  }
+
+  .MarchelNgujo {
+    left: 7vw;
+      top: 6vh;
+      font-size: 3vh;
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 35.5vw;
+      height: 35.5vw;
+      left: 32vw;
+      top: 15vh;
+  }
+
+  .March {
+      top: 45vh;
+      font-size: 7vw; 
+      left: 5vw;
+  }
+
+  .Bsit3C {
+    font-size: 7vw; 
+    top:45vh;
+    left: 63vw;
+}
+
+  .AboutMe {
+    right: 5vw;
+    top: 6vh;
+    font-size: 1.1vw;
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 1.2vw;
+      top: 63vh;
+      left: 5vw;
+  }
+
+  .CebuCityPhilippines {
+    left: 4vw;
+    bottom: 5vh;
+    font-size: 1vw;
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 1280px) {
+  
+  .Rectangle32 {
+    height: 100vh; /* Reduce height slightly to fit smaller screens */
+  }
+
+  .chibiski3 {
+      width: 8vw; /* Smaller width */
+      height: 8vw; /* Smaller height */
+      left: -1vw; /* Adjust positioning */
+      top: 0vh; /* Adjust top positioning */
+  }
+
+  .MarchelNgujo {
+    left: 5vw; /* Adjusted left for smaller screen */
+    top: 4vh; /* Adjusted top */
+    font-size: 4vh; /* Slightly smaller font size */
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 35vw; /* Reduced size */
+      height: 35vw; 
+      left: 32vw; /* Adjusted positioning */
+      top: 15vh; /* Adjusted top */
+  }
+
+  .March {
+      top: 43vh; /* Adjusted top */
+      font-size: 7vw; /* Reduced font size */
+      left: 5vw; /* Adjusted left */
+  }
+
+  .Bsit3C {
+    font-size: 7vw; /* Reduced font size */
+    top: 43vh; /* Adjusted top */
+    left: 62vw; /* Adjusted positioning */
+  }
+
+  .AboutMe {
+    right: 4.5vw; /* Adjusted right */
+    top: 5vh; /* Adjusted top */
+    font-size: 1vw; /* Reduced font size */
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 1vw; /* Reduced font size */
+      top: 60.5vh; /* Adjusted top */
+      left: 5vw;/* Adjusted left */
+  }
+
+  .CebuCityPhilippines {
+    left: 3vw; /* Adjusted left */
+    bottom: 4vh; /* Adjusted bottom */
+    font-size: 1vw; /* Reduced font size */
+    font-weight: 600;
+  }
+}
+
+
+@media (min-width: 1536px) {
+  
+  .Rectangle32 {
+    height: 90.5vh; /* Slight reduction in height */
+  }
+
+  .chibiski3 {
+      width: 7vw; /* Smaller width */
+      height: 7vw; /* Smaller height */
+      left: 0vw; /* Adjusted positioning */
+      top: 1vh; /* Slight adjustment to top positioning */
+  }
+
+  .MarchelNgujo {
+    left: 5vw; /* Adjusted left for wider screen */
+    top: 4.5vh; /* Adjusted top */
+    font-size: 3vh; /* Reduced font size */
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 35vw; /* Reduced size for a smaller fit */
+      height: 35vw; 
+      left: 27vw; /* Adjusted left positioning */
+      top: 12vh; /* Adjusted top positioning */
+  }
+
+  .March {
+      top: 38vh; /* Adjusted top for better fit */
+      font-size: 6vw; /* Reduced font size */
+      left: 4vw; /* Adjusted left */
+  }
+
+  .Bsit3C {
+    font-size: 6vw; /* Reduced font size */
+    top: 38vh; /* Adjusted top */
+    left: 57vw; /* Adjusted positioning */
+  }
+
+  .AboutMe {
+    right: 15vw; /* Adjusted right */
+    top: 4.5vh; /* Adjusted top */
+    font-size: 1vw; /* Adjusted font size */
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 1vw; /* Reduced font size */
+      top: 53vh; /* Adjusted top */
+      left: 4vw; /* Adjusted left */
+  }
+
+  .CebuCityPhilippines {
+    left: 4vw; /* Adjusted left */
+    bottom: 14vh; /* Adjusted bottom */
+    font-size: 0.9vw; /* Slightly reduced font size */
+    font-weight: 600;
+  }
+}
+
+@media (min-width: 2560px) {
+
+  .Rectangle32 {
+    height: 85vh; /* Slight reduction in height */
+    width: 81.1vw;
+  }
+
+  .chibiski3 {
+      width: 6vw; /* Smaller width for high resolution */
+      height: 6vw; /* Smaller height */
+      left: 1vw; /* Adjusted positioning */
+      top: 2vh; /* Slight adjustment to top positioning */
+  }
+
+  .MarchelNgujo {
+    left: 6vw; /* Adjusted left for wider screen */
+    top: 5.5vh; /* Adjusted top */
+    font-size: 2.8vh; /* Reduced font size */
+  }
+
+  .Ellipse8, .ImagePhotoroom11 {
+      width: 25vw; /* Reduced size for a high-res fit */
+      height: 25vw;
+      left: 28.5vw; /* Adjusted left positioning */
+      top: 15vh; /* Adjusted top positioning */
+  }
+
+  .March {
+      top: 35vh; /* Adjusted top for better fit */
+      font-size: 5.5vw; /* Adjusted font size */
+      left: 6vw; /* Adjusted left */
+  }
+
+  .Bsit3C {
+    font-size: 5.5vw; /* Adjusted font size */
+    top: 35vh; /* Adjusted top */
+    left: 50vw; /* Adjusted positioning */
+  }
+
+  .AboutMe {
+    right: 23vw; /* Adjusted right */
+    top: 5vh; /* Adjusted top */
+    font-size: 20px; /* Adjusted font size */
+  }
+
+  .IMPassionateAboutDesignTheArtOfCodingAndEverythingConnectedToArt {
+      font-size: 1vw; /* Adjusted font size */
+      top: 49vh; /* Adjusted top */
+      left: 6vw; /* Adjusted left */
+  }
+
+  .CebuCityPhilippines {
+    left: 5vw; /* Adjusted left */
+    bottom: 22vh; /* Adjusted bottom */
+    font-size: 20px; /* Adjusted font size */
+    font-weight: 600;
+  }
+}

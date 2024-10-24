@@ -1,0 +1,489 @@
+
+/* *SECOND */
+.Second{
+  display: flex;
+  width: 120vw; 
+  height: 116.6vh; 
+  left: 0px; 
+  top: 650px; 
+  position: relative;
+  color: rgb(255, 255, 255);
+}
+
+.Home{
+  left: 1107px; 
+  top: 72px; 
+  position: absolute; 
+  text-align: justify; 
+  color: black; 
+  font-size: 15px; 
+  font-family: Comfortaa; 
+  font-weight: 400; 
+  letter-spacing: 0px; 
+  word-wrap: break-word;
+}
+
+.MajorSub{
+  left: 1220px; 
+  top: 72px; 
+  position: relative; 
+  text-align: justify; 
+  color: black; 
+  font-size: 15px; 
+  font-family: Comfortaa; 
+  font-weight: 400; 
+  letter-spacing: 0px;
+  word-wrap: break-word;
+}
+
+.MarchelNgujo2{
+  width: 199px; 
+  height: 36px; 
+  left: 100px; 
+  top: 64px; 
+  position: absolute; 
+  color: black; 
+  font-size: 24px; 
+  font-family: Bevan; 
+  font-weight: 400; 
+  word-wrap: break-word;
+}
+
+.HelloIMMarchel{
+  left: 100px; 
+  top: 188px; 
+  position: absolute; 
+  color: black; 
+  font-size: 64px; 
+  font-family: 'Bevan', serif; 
+  font-weight: 600; 
+  line-height: 87.63px; 
+  word-wrap: break-word;
+}
+
+.MyNameIsMarchelLagahitNgujoYouCanCallMeMarchIMA20YearOld3rdYearBsitStudentFromSection3cAtCordovaPublicCollege{
+  width: 584px; 
+  left: 100px; 
+  top: 391px; 
+  position: absolute; 
+  text-align: justify; 
+  color: #707E4C; 
+  font-size: 20px; 
+  font-family: Comfortaa; 
+  font-weight: 400; 
+  letter-spacing: 1.10px; 
+  word-wrap: break-word; 
+  line-height: 1;
+}
+
+.ThereIsNoFailureYouEitherWinOrYouLearn{
+  width: 584px; 
+  left: 100px; 
+  top: 530px; 
+  position: absolute; 
+  text-align: justify; 
+  color: #707E4C; 
+  font-size: 20px; 
+  font-family: Comfortaa; 
+  font-weight: 400; 
+  letter-spacing: 1.10px; 
+  word-wrap: break-word; 
+  line-height: 1;
+}
+
+.Chibiski3_2{
+  width: 9.5vw; 
+  height: 9.5vw; 
+  left: 0px; 
+  top: 32px; 
+  position: absolute;
+}
+
+@media(max-width: 320px){
+  
+
+  .Second{
+    display: flex;
+     width: 100vw;
+        height: 100vh;
+      left: 0px; 
+      top: 575px; 
+      position: absolute;
+      flex-direction: column;
+
+      overflow: hidden;
+
+      
+    }
+  
+    .Chibiski3_2{
+        width: 20vw; 
+        height: 20vw; 
+        left: 1vw; 
+        top: 30px; 
+      }
+
+      .MarchelNgujo2{
+        left: 15.5vw; 
+        top: 8vh; 
+        font-size: 2vh; 
+      }
+
+      .HelloIMMarchel{
+        left: 10vw; 
+        top: 15vh; 
+        font-size: 24px; 
+        line-height: 6vh; 
+      }
+
+      .MyNameIsMarchelLagahitNgujoYouCanCallMeMarchIMA20YearOld3rdYearBsitStudentFromSection3cAtCordovaPublicCollege{
+        left: 10vw; 
+        top: 30vh; 
+        font-size: 1.3vh; 
+      }
+
+      .ThereIsNoFailureYouEitherWinOrYouLearn{
+        left: 10vw; 
+        top: 38vh; 
+        font-size: 1.3vh; 
+      }
+
+      .Home{
+        left: 60vw; 
+        top: 8.5vh; 
+        font-size: 1.5vh; 
+      }
+      
+      .MajorSub{
+        left: 80vw; 
+        top: 8.5vh; 
+        font-size: 1.5vh; 
+      }
+      
+
+      
+}
+
+@media(min-width: 375px){
+  .Second {
+    display: flex;
+    width: 100vw;
+    height: 50vh;
+    left: 0px;
+    top: 575px;
+    position: absolute;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .Chibiski3_2 {
+    width: 20vw;
+    height: 20vw;
+    left: 1px;
+    top: 30px;
+  }
+
+  .MarchelNgujo2 {
+    left: 16vw;
+    top: 8vh;
+    font-size: 2.2vh;
+  }
+
+  .HelloIMMarchel {
+    left: 12vw;
+    top: 15vh;
+    font-size: 26px;
+    line-height: 6.2vh;
+  }
+
+  .MyNameIsMarchelLagahitNgujoYouCanCallMeMarchIMA20YearOld3rdYearBsitStudentFromSection3cAtCordovaPublicCollege {
+    left: 12vw;
+    top: 30vh;
+    font-size: 1.4vh;
+  }
+
+  .ThereIsNoFailureYouEitherWinOrYouLearn {
+    left: 12vw;
+    top: 38vh;
+    font-size: 1.4vh;
+  }
+
+  .Home {
+    left: 62vw;
+    top: 8.5vh;
+    font-size: 1.6vh;
+  }
+
+  .MajorSub {
+    left: 82vw;
+    top: 8.5vh;
+    font-size: 1.6vh;
+  }
+}
+@media(min-width: 768px){
+  
+
+  .Second {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    width: 100vw; 
+    height: 100vh; 
+    position: relative;
+    overflow: hidden; 
+  }
+  
+  
+    .Chibiski3_2{
+        width: 10vw; 
+        height: 10vw; 
+        left: 1vw; 
+        top: 30px; 
+      }
+
+      .MarchelNgujo2{
+        left: 8vw; 
+        top: 8.2vh; 
+        font-size: 3vh; 
+      }
+
+      .HelloIMMarchel{
+        left: 8vw; 
+        top: 15vh; 
+        font-size: 40px; 
+        line-height: 10vh; 
+      }
+
+      .MyNameIsMarchelLagahitNgujoYouCanCallMeMarchIMA20YearOld3rdYearBsitStudentFromSection3cAtCordovaPublicCollege{
+        left: 8vw; 
+        top: 40vh; 
+        font-size: 2vh; 
+      }
+
+      .ThereIsNoFailureYouEitherWinOrYouLearn{
+        left: 8vw; 
+        top: 55vh; 
+        font-size: 2vh; 
+      }
+
+      .Home{
+        left: 70vw; 
+        top: 9.5vh; 
+        font-size: 2vh; 
+      }
+      
+      .MajorSub {
+        left: 45vw; 
+        transform: translateX(-50%); 
+        top: 9.6vh;
+        font-size: 2vh; 
+      }
+      
+
+      
+}
+
+@media(min-width: 1024px){
+  .Chibiski3_2{
+    width: 8vw;
+    height: 8vw;
+  }
+
+  .HelloIMMarchel{
+    font-size: 10vh;
+  }
+
+  .MyNameIsMarchelLagahitNgujoYouCanCallMeMarchIMA20YearOld3rdYearBsitStudentFromSection3cAtCordovaPublicCollege{
+    font-size: 2.5vh;
+  }
+}
+
+@media(min-width: 1366px){
+  
+  .Second {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    width: 100vw; 
+    height: 100vh; 
+    position: relative; 
+    overflow: hidden; 
+    top: 100vh;
+    left: 0px;
+  }
+  
+  
+    .Chibiski3_2{
+        width: 9.5vw; 
+        height: 9.5vw; 
+        left: 0vw; 
+        top: 30px; 
+      }
+
+      .MarchelNgujo2{
+        width: 199px; 
+        height: 36px; 
+        left: 100px; 
+        top: 64px; 
+        position: absolute; 
+        color: black; 
+        font-size: 24px; 
+        font-family: Bevan; 
+        font-weight: 400; 
+        word-wrap: break-word;
+      }
+
+      .HelloIMMarchel{
+        left: 100px; 
+  top: 188px; 
+  position: absolute; 
+  color: black; 
+  font-size: 64px; 
+  font-family: 'Bevan', serif; 
+  font-weight: 600; 
+  line-height: 87.63px; 
+  word-wrap: break-word; 
+      }
+
+      .MyNameIsMarchelLagahitNgujoYouCanCallMeMarchIMA20YearOld3rdYearBsitStudentFromSection3cAtCordovaPublicCollege{
+        width: 584px; 
+  left: 100px; 
+  top: 391px; 
+  position: absolute; 
+  text-align: justify; 
+  color: #707E4C; 
+  font-size: 20px; 
+  font-family: Comfortaa; 
+  font-weight: 400; 
+  letter-spacing: 1.10px; 
+  word-wrap: break-word; 
+  line-height: 1;
+      }
+
+      .ThereIsNoFailureYouEitherWinOrYouLearn{
+        width: 584px; 
+        left: 100px; 
+        top: 530px; 
+        position: absolute; 
+        text-align: justify; 
+        color: #707E4C; 
+        font-size: 20px; 
+        font-family: Comfortaa; 
+        font-weight: 400; 
+        letter-spacing: 1.10px; 
+        word-wrap: break-word; 
+        line-height: 1;
+      }
+
+      .Home{
+        left: 1107px; 
+        top: 72px; 
+        position: absolute; 
+        text-align: justify; 
+        color: black; 
+        font-size: 15px; 
+        font-family: Comfortaa; 
+        font-weight: 400; 
+        letter-spacing: 0px; 
+        word-wrap: break-word;
+      }
+      
+      .MajorSub {
+        display: flex;
+        left: 620px; 
+        top: 72px; 
+        position: relative; 
+        text-align: justify; 
+        color: black; 
+        font-size: 15px; 
+        font-family: Comfortaa; 
+        font-weight: 400; 
+        letter-spacing: 0px;
+        word-wrap: break-word;
+      }
+      
+}
+
+
+@media(min-width: 1440px){
+  
+
+    .Second{
+      display: flex;
+       width: 100vw;
+          height: 100vh;
+        left: 0px; 
+        top: 575px; 
+        position: absolute;
+        flex-direction: column;
+  
+        overflow: hidden;
+  
+        
+      }
+    
+      .Chibiski3_2{
+          width: 8vw; 
+          height: 8vw; 
+          left: 0vw; 
+          top: 15vh; 
+        }
+  
+        .MarchelNgujo2{
+          left: 6vw; 
+          top: 19vh; 
+          font-size: 4vh; 
+        }
+  
+        .HelloIMMarchel{
+          left: 6vw; 
+          top: 30vh; 
+          font-size: 14vh; 
+          line-height: 15vh; 
+        }
+  
+        .MyNameIsMarchelLagahitNgujoYouCanCallMeMarchIMA20YearOld3rdYearBsitStudentFromSection3cAtCordovaPublicCollege{
+          left: 6vw; 
+          top: 65vh; 
+          font-size: 3.5vh; 
+        }
+  
+        .ThereIsNoFailureYouEitherWinOrYouLearn{
+          left: 6vw; 
+          top: 90vh; 
+          font-size: 3.5vh; 
+        }
+  
+        .Home{
+          left: 70vw; 
+          top: 21vh; 
+          font-size: 2.5vh; 
+        }
+        
+        .MajorSub{
+          left: 86vw; 
+          top: 21vh; 
+          font-size: 2.5vh; 
+        }
+        
+  
+        
+}
+
+@media(min-width: 2560px){
+  .Second{
+    display: flex;
+     width: 81vw;
+        height: 130vh;
+      left: 0px; 
+      top: 70vh; 
+      position: absolute;
+      flex-direction: column;
+
+      overflow: hidden;
+
+      
+    }
+}
+
+

@@ -1,0 +1,857 @@
+/* *HOBBIES AND INTEREST */
+.HobbiesAndInterests {
+  width: 574px;
+  height: 244px;
+  left: 30px;
+  top: 2210px;
+  position: absolute;
+}
+
+.HobbiesInterests2_text {
+  width: 563px;
+  height: 65px;
+  left: 11px;
+  top: 0px;
+  position: absolute; /* This line is fixed */
+  color: black;
+  font-size: 45px;
+  font-family: 'Bevan', sans-serif; /* Make sure the font is available or linked */
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Group11 {
+  width: 107px;
+  height: 100px;
+  left: 0px;
+  top: 89px;
+  position: absolute;
+}
+
+.DiscOutline1 {
+  width: 100px; /* Set the width of the container */
+  height: 100px; /* Set the height of the container */
+  position: relative; /* Relative positioning for absolute elements inside */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%; /* Make it circular */
+}
+
+.DiscOutline1 .fa-record-vinyl {
+  font-size: 100px; /* Size of the record vinyl icon */
+  color: #EA5C5A; /* Color of the vinyl icon */
+  z-index: 1; /* Ensure this icon is in the background */
+}
+
+.DiscOutline1 .fa-music {
+  font-size: 50px; /* Size of the music note icon */
+  color: #707E4C; /* Color of the music note */
+  position: absolute; /* Position relative to the parent container */
+  top: 50px; /* Position it at 50px from the top */
+  left: 50px; /* Position it at 50px from the left */
+  text-shadow: 0 0 2px #fff, 0 0 2px #fff; /* Add a text shadow effect */
+  z-index: 2; /* Ensure it’s on top of the vinyl icon */
+}
+
+
+
+  
+  /* *Palette Icon */
+  .Group12{
+    width: 150px; 
+    height: 138px; 
+    left: 145px; 
+    top: 89px; 
+    position: absolute;
+  }
+  
+  .ColorPaletteOutline11{
+    width: 100px; 
+    height: 100px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+  }
+  
+  .PaletteOutline1{
+    width: 100px; 
+    height: 100px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    position: relative;
+  }
+
+  .PaletteOutline1 .fa-palette {
+    font-size: 80px;
+    color: #EA5C5A; /* Red color for palette */
+    position: absolute;
+  }
+  
+  .PaletteOutline1 .fa-paintbrush {
+    font-size: 50px;
+    color: #707E4C; /* Greenish color for paintbrush */
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    text-shadow: 0 0 2px #fff, 0 0 2px #fff; /* Adds shadow to the paintbrush */
+  }
+
+  /* *Paw Icon */
+  .Group13 {
+    width: 100px;
+    height: 87px;
+    position: absolute;
+    left: 283px;
+    top: 97px;
+  }
+  
+  .Group13 .fa-paw:first-of-type {
+    font-size: 50px;
+    color: #EA5C5A; /* Red color for the first paw icon */
+    position: absolute;
+  }
+  
+  .Group13 .fa-paw:nth-of-type(2) {
+    font-size: 50px;
+    color: #707E4C; /* Greenish color for the second paw icon */
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    text-shadow: 0 0 2px #fff, 0 0 2px #fff; /* Adds shadow to the second paw icon */
+  }
+  
+
+  /* *Classical Jazz Pop Rock Icons and Text */
+  .text-container {
+    position: absolute;
+    color: black;
+    font-size: 15px;
+    font-family: Comfortaa;
+    font-weight: 600;
+    letter-spacing: 1.35px;
+    word-wrap: break-word;
+  }
+  
+  .ClassicalJazzPopRock {
+    left: 11px;
+    top: 193px;
+  }
+  
+  .DigitalArtTraditionalArt {
+    left: 157px;
+    top: 193px;
+  }
+  
+  .CatsDogs {
+    left: 292px;
+    top: 193px;
+  }
+  
+  .HorrorFilmDocumentariesExploration {
+    left: 428px;
+    top: 193px;
+  }
+  
+  .VideocamOutline1 {
+  width: 100px;
+  height: 100px;
+  left: 422px;
+  top: 84px;
+  position: absolute;
+}
+
+.VideocamIcon {
+  font-size: 90px;
+  color: #EA5C5A;
+  position: absolute;
+}
+
+.PlayIcon {
+  font-size: 50px !important; 
+  color: #707E4C !important; /* Force color */
+  position: absolute !important; 
+  top: 50px !important; 
+  left: 50px !important; 
+  text-shadow: 0 0 2px #fff, 0 0 2px #fff !important;
+}
+
+@media(max-width: 320px){
+  
+  
+  .HobbiesAndInterests {
+    display: flex;
+    left: 3px;
+    top: 195vh;
+    width: 320px;
+    height: 28vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .HobbiesInterests2_text {
+    width: 150px;
+    height: 65px;
+    left: 3px;
+    top: 10vh;
+    font-size: 20px;
+    line-height: 3vh;
+  }
+
+  .Group11 {
+    top: 65px;
+    left: -37px;
+  }
+
+  .DiscOutline1 .fa-record-vinyl {
+    font-size: 20px; /* Size of the record vinyl icon */
+    z-index: 1; /* Ensure this icon is in the background */
+  }
+
+  .DiscOutline1 .fa-music{
+    font-size: 10px;
+    left: 9vh;
+  }
+
+  .text-container {
+    font-size: 7px;
+    letter-spacing: 1px;
+    line-height: 1vh;
+    word-wrap: break-word;
+  }
+
+  .ClassicalJazzPopRock {
+    left: 9vw;
+    top: 18.2vh;
+  }
+  
+  /* *PALETTE */
+
+  .Group12{
+    top: 11vh;
+    left: 38px;
+  }
+
+  .PaletteOutline1 .fa-palette {
+    font-size: 20px;
+  }
+
+  .PaletteOutline1 .fa-paintbrush {
+    font-size: 10px;
+  }
+  
+  .DigitalArtTraditionalArt {
+    left: 31vw;
+    top: 18.5vh;
+  }
+
+  /* *PAWS */
+  .Group13 {
+    top: 23vh;
+    left: 5px;
+  }
+
+  .Group13 .fa-paw:first-of-type {
+    font-size: 10px;
+  }
+  
+  .Group13 .fa-paw:nth-of-type(2) {
+    font-size: 10px;
+    top: 10px;
+    left: 10px;
+  }
+
+  .CatsDogs {
+    left: 9vw;
+    top: 140px;
+    width: 10vw;
+    line-height: 1.1vh;
+  }
+
+  /* *VIDEOS */
+
+  .VideocamOutline1 {
+    display: flex;
+    width: 80px;
+    height: 30px;
+    left: 25vw;
+    top: 23vh;
+    position: absolute;
+  }
+
+  .VideocamIcon {
+    font-size: 15px;
+  }
+  .PlayIcon {
+    font-size: 10px !important; 
+    top: 9px !important; 
+    left: 9px !important; 
+  }
+
+  .HorrorFilmDocumentariesExploration {
+    left: 31vw;
+    top: 23vh;
+    width: 18vw;
+  }
+
+}
+
+@media (min-width: 375px) {
+  .HobbiesAndInterests {
+    display: flex;
+    left: 3px;
+    top: 195vh;
+    width: 375px; /* Adjusted width to fit the screen */
+    height: 28vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .HobbiesInterests2_text {
+    width: 150px;
+    height: 65px;
+    left: 3px;
+    top: 10vh;
+    font-size: 20px;
+    line-height: 3vh;
+  }
+
+  .Group11 {
+    top: 65px;
+    left: -37px;
+  }
+
+  .DiscOutline1 .fa-record-vinyl {
+    font-size: 20px;
+    z-index: 1;
+  }
+
+  .DiscOutline1 .fa-music {
+    font-size: 10px;
+    left: 9vh;
+  }
+
+  .text-container {
+    font-size: 7px;
+    letter-spacing: 1px;
+    line-height: 1vh;
+    word-wrap: break-word;
+  }
+
+  .ClassicalJazzPopRock {
+    left: 9vw;
+    top: 18.2vh;
+  }
+
+  .Group12 {
+    top: 11vh;
+    left: 51px;
+  }
+
+  .PaletteOutline1 .fa-palette {
+    font-size: 20px;
+  }
+
+  .PaletteOutline1 .fa-paintbrush {
+    font-size: 10px;
+  }
+
+  .DigitalArtTraditionalArt {
+    left: 31vw;
+    top: 18.5vh;
+  }
+
+  .Group13 {
+    top: 23vh;
+    left: 5px;
+  }
+
+  .Group13 .fa-paw:first-of-type {
+    font-size: 10px;
+  }
+
+  .Group13 .fa-paw:nth-of-type(2) {
+    font-size: 10px;
+    top: 10px;
+    left: 10px;
+  }
+
+  .CatsDogs {
+    left: 9vw;
+    top: 140px;
+    width: 10vw;
+    line-height: 1.1vh;
+  }
+
+  .VideocamOutline1 {
+    display: flex;
+    width: 80px;
+    height: 30px;
+    left: 25vw;
+    top: 23vh;
+    position: absolute;
+  }
+
+  .VideocamIcon {
+    font-size: 15px;
+  }
+
+  .PlayIcon {
+    font-size: 10px !important;
+    top: 9px !important;
+    left: 9px !important;
+  }
+
+  .HorrorFilmDocumentariesExploration {
+    left: 31vw;
+    top: 23vh;
+    width: 18vw;
+  }
+}
+
+@media(min-width: 768px){
+  
+  
+  .HobbiesAndInterests {
+    display: flex;
+    left: 5vw;
+    top: 240vh;
+    width: 45vw;
+    height: 25vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .HobbiesInterests2_text {
+    width: 50vw;
+    height: 65px;
+    left: 3px;
+    top: 3vh;
+    font-size: 30px;
+    line-height: 4vh;
+  }
+
+  .Group11 {
+    top: 5vh;
+    left: -3vw;
+  }
+
+  .DiscOutline1 .fa-record-vinyl {
+    font-size: 50px; /* Size of the record vinyl icon */
+    z-index: 1; /* Ensure this icon is in the background */
+  }
+
+  .DiscOutline1 .fa-music{
+    font-size: 25px;
+    left: 9vh;
+  }
+
+  .text-container {
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 2vh;
+    word-wrap: break-word;
+  }
+
+  .ClassicalJazzPopRock {
+    left: 1vw;
+    top: 18.2vh;
+  }
+  
+  /* *PALETTE */
+
+  .Group12{
+    top: 5vh;
+    left: 55px;
+  }
+
+  .PaletteOutline1 .fa-palette {
+    font-size: 50px;
+  }
+
+  .PaletteOutline1 .fa-paintbrush {
+    font-size: 25px;
+  }
+  
+  .DigitalArtTraditionalArt {
+    left: 10vw;
+    top: 18.2vh;
+  }
+
+  /* *PAWS */
+  .Group13 {
+    top: 10vh;
+    left: 22vw;
+  }
+
+  .Group13 .fa-paw:first-of-type {
+    font-size: 25px;
+  }
+  
+  .Group13 .fa-paw:nth-of-type(2) {
+    font-size: 25px;
+    top: 25px;
+    left: 25px;
+  }
+
+  .CatsDogs {
+    left: 21vw;
+    top: 20vh;
+    width: 10vw;
+    line-height: 1.1vh;
+  }
+
+  /* *VIDEOS */
+
+  .VideocamOutline1 {
+    width: 100px;
+    height: 100px;
+    left: 33vw;
+    top: 9vh;
+    position: absolute;
+  }
+
+  .VideocamIcon {
+    font-size: 50px;
+  }
+  .PlayIcon {
+    font-size: 25px !important; 
+    top: 5vh !important; 
+    left: 3vw !important; 
+  }
+
+  .HorrorFilmDocumentariesExploration {
+    left: 32vw;
+    top: 18.2vh;
+    width: 18vw;
+  }
+
+}
+
+@media(min-width: 1024px){
+  .Group11{
+    left: -1vw;
+  }
+
+  .Group12{
+    left: 8vw;
+  }
+
+  .Group13{
+    left: 20vw;
+  }
+
+  .CatsDogs {
+    left: 19vw;
+    top: 20vh;
+    width: 10vw;
+    line-height: 1.1vh;
+  }
+
+  .VideocamOutline1{
+    left: 30vw;
+  }
+
+  .HorrorFilmDocumentariesExploration {
+    left: 30vw;
+  }
+}
+
+@media(min-width: 1366px){
+  .HobbiesAndInterests {
+    width: 574px;
+    height: 244px;
+    left: 30px;
+    top: 2210px;
+    position: absolute;
+  }
+  
+  .HobbiesInterests2_text {
+    width: 563px;
+    height: 65px;
+    left: 11px;
+    top: 5px;
+    position: absolute; /* This line is fixed */
+    color: black;
+    font-size: 45px;
+    font-family: 'Bevan', sans-serif; /* Make sure the font is available or linked */
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Group11 {
+    width: 107px;
+    height: 100px;
+    left: 0px;
+    top: 89px;
+    position: absolute;
+  }
+  
+  .DiscOutline1 {
+    width: 100px; /* Set the width of the container */
+    height: 100px; /* Set the height of the container */
+    position: relative; /* Relative positioning for absolute elements inside */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%; /* Make it circular */
+  }
+  
+  .DiscOutline1 .fa-record-vinyl {
+    font-size: 100px; /* Size of the record vinyl icon */
+    color: #EA5C5A; /* Color of the vinyl icon */
+    z-index: 1; /* Ensure this icon is in the background */
+  }
+  
+  .DiscOutline1 .fa-music {
+    font-size: 50px; /* Size of the music note icon */
+    color: #707E4C; /* Color of the music note */
+    position: absolute; /* Position relative to the parent container */
+    top: 50px; /* Position it at 50px from the top */
+    left: 50px; /* Position it at 50px from the left */
+    text-shadow: 0 0 2px #fff, 0 0 2px #fff; /* Add a text shadow effect */
+    z-index: 2; /* Ensure it’s on top of the vinyl icon */
+  }
+  
+  
+  
+    
+    /* *Palette Icon */
+    .Group12{
+      width: 150px; 
+      height: 138px; 
+      left: 145px; 
+      top: 89px; 
+      position: absolute;
+    }
+    
+    .ColorPaletteOutline11{
+      width: 100px; 
+      height: 100px; 
+      left: 0px; 
+      top: 0px; 
+      position: absolute;
+    }
+    
+    .PaletteOutline1{
+      width: 100px; 
+      height: 100px; 
+      display: flex; 
+      align-items: center; 
+      justify-content: center; 
+      position: relative;
+    }
+  
+    .PaletteOutline1 .fa-palette {
+      font-size: 80px;
+      color: #EA5C5A; /* Red color for palette */
+      position: absolute;
+    }
+    
+    .PaletteOutline1 .fa-paintbrush {
+      font-size: 50px;
+      color: #707E4C; /* Greenish color for paintbrush */
+      position: absolute;
+      top: 50px;
+      left: 50px;
+      text-shadow: 0 0 2px #fff, 0 0 2px #fff; /* Adds shadow to the paintbrush */
+    }
+  
+    /* *Paw Icon */
+    .Group13 {
+      width: 100px;
+      height: 87px;
+      position: absolute;
+      left: 283px;
+      top: 97px;
+    }
+    
+    .Group13 .fa-paw:first-of-type {
+      font-size: 50px;
+      color: #EA5C5A; /* Red color for the first paw icon */
+      position: absolute;
+    }
+    
+    .Group13 .fa-paw:nth-of-type(2) {
+      font-size: 50px;
+      color: #707E4C; /* Greenish color for the second paw icon */
+      position: absolute;
+      top: 38px;
+      left: 50px;
+      text-shadow: 0 0 2px #fff, 0 0 2px #fff; /* Adds shadow to the second paw icon */
+    }
+    
+  
+    /* *Classical Jazz Pop Rock Icons and Text */
+    .text-container {
+      position: absolute;
+      color: black;
+      font-size: 15px;
+      font-family: Comfortaa;
+      font-weight: 600;
+      letter-spacing: 1.35px;
+      word-wrap: break-word;
+    }
+    
+    .ClassicalJazzPopRock {
+      left: 11px;
+      top: 193px;
+    }
+    
+    .DigitalArtTraditionalArt {
+      left: 157px;
+      top: 193px;
+    }
+    
+    .CatsDogs {
+      left: 292px;
+      top: 193px;
+    }
+    
+    .HorrorFilmDocumentariesExploration {
+      left: 428px;
+      top: 193px;
+    }
+    
+    .VideocamOutline1 {
+    width: 100px;
+    height: 100px;
+    left: 422px;
+    top: 84px;
+    position: absolute;
+  }
+  
+  .VideocamIcon {
+    font-size: 90px;
+    color: #EA5C5A;
+    position: absolute;
+  }
+  
+  .PlayIcon {
+    font-size: 50px !important; 
+    color: #707E4C !important; /* Force color */
+    position: absolute !important; 
+    top: 50px !important; 
+    left: 50px !important; 
+    text-shadow: 0 0 2px #fff, 0 0 2px #fff !important;
+  }
+}
+
+@media(min-width: 1440px){
+  
+  
+  .HobbiesAndInterests {
+    display: flex;
+    left: 2vw;
+    top: 300vh;
+    width: 45vw;
+    height: 30vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .HobbiesInterests2_text {
+    width: 50vw;
+    height: 65px;
+    left: 3px;
+    top: 3vh;
+    font-size: 8vh;
+    line-height: 4vh;
+  }
+
+  .Group11 {
+    top: 8vh;
+    left: 1vw;
+  }
+
+  .DiscOutline1 .fa-record-vinyl {
+    font-size: 75px; /* Size of the record vinyl icon */
+    z-index: 1; /* Ensure this icon is in the background */
+  }
+
+  .DiscOutline1 .fa-music{
+    font-size: 45px;
+    left: 3.5vw;
+  }
+
+  .text-container {
+    font-size: 2vh;
+    letter-spacing: 1px;
+    line-height: 2vh;
+    word-wrap: break-word;
+  }
+
+  .ClassicalJazzPopRock {
+    left: 2vw;
+    top: 23vh;
+  }
+  
+  /* *PALETTE */
+
+  .Group12{
+    top: 8vh;
+    left: 10vw;
+  }
+
+  .PaletteOutline1 .fa-palette {
+    font-size: 75px;
+  }
+
+  .PaletteOutline1 .fa-paintbrush {
+    font-size: 45px;
+  }
+  
+  .DigitalArtTraditionalArt {
+    left: 11.5vw;
+    top: 23vh;
+  }
+
+  /* *PAWS */
+  .Group13 {
+    top: 10vh;
+    left: 20.5vw;
+  }
+
+  .Group13 .fa-paw:first-of-type {
+    font-size: 40px;
+  }
+  
+  .Group13 .fa-paw:nth-of-type(2) {
+    font-size: 40px;
+    top: 30px;
+    left: 35px;
+  }
+
+  .CatsDogs {
+    left: 20vw;
+    top: 23.5vh;
+    width: 10vw;
+    line-height: 1.1vh;
+  }
+
+  /* *VIDEOS */
+
+  .VideocamOutline1 {
+    width: 100px;
+    height: 100px;
+    left: 29vw;
+    top: 9vh;
+  }
+
+  .VideocamIcon {
+    font-size: 75px;
+  }
+  .PlayIcon {
+    font-size: 45px !important; 
+    top: 5vh !important; 
+    left: 3vw !important; 
+  }
+
+  .HorrorFilmDocumentariesExploration {
+    left: 29vw;
+    top: 23vh;
+    width: 18vw;
+  }
+
+}

@@ -1,0 +1,1025 @@
+
+.Heart_Certificate1{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  display: flex;
+  align-items: center; /* Center items vertically */
+  justify-content: center; /* Center items horizontally */
+  top: 200px; 
+  left: 70px;
+
+}
+
+.Heart_Certicate2{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  display: flex;
+  align-items: center; /* Center items vertically */
+  justify-content: center; /* Center items horizontally */
+  top: 280px; 
+  left: 70px;
+}
+
+.Iconii_cer{
+  color: #9AA972; /* Icon color */
+  font-size: 16px; /* Adjust icon size as needed */
+}
+
+.Line4{
+  width: 44px; 
+  height: 0px; 
+  left: 86px; 
+  top: 230px; 
+  position: absolute; 
+  transform: rotate(90deg); transform-origin: 0 0; 
+  border: 1px #F1E9D2 solid;
+}
+/* Certificates Section*/
+
+.CertificatesMajorSub{
+    width: 1302px; 
+    height: 423px; 
+    left: 30px; 
+    top: 1777px; 
+    position: absolute;
+  }
+  
+  .Rectangle12{
+    width: 600px; 
+    height: 404px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #EA5C5A;
+  }
+  
+  .CertificatesAwards{
+    width: 450px; 
+    height: 65px; 
+    left: 73px; 
+    top: 34px; 
+    position: absolute; 
+    color: black; 
+    font-size: 45px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .MajorSubjectPerYearLevel{
+    width: 564px; 
+    height: 65px; 
+    left: 657px; 
+    top: 165px; 
+    position: absolute; 
+    color: black; 
+    font-size: 45px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    line-height: 46.24px; 
+    word-wrap: break-word;
+  }
+  
+  
+  /* Certificates and Awards Year and Program */
+  .May52024{
+    width: 150px; 
+    height: 34px; 
+    left: 120px; 
+    top: 200px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .StYear{
+    width: 105px; 
+    height: 34px; 
+    left: 659px; 
+    top: 265px; 
+    position: absolute; 
+    color: #707E4C; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .NdYear{
+    width: 152px; 
+    height: 34px; 
+    left: 657px; 
+    top: 335px; 
+    position: absolute; 
+    color: #707E4C; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .RdYear{
+    width: 134px; 
+    height: 34px; 
+    left: 1022px; 
+    top: 265px; 
+    position: absolute; 
+    color: #707E4C; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .ThYear{
+    width: 134px; 
+    height: 34px; 
+    left: 1021px; 
+    top: 335px; 
+    position: absolute; 
+    color: #707E4C; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .OctoberDecember2023{
+    width: 325px; 
+    height: 34px; 
+    left: 120px; 
+    top: 280px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .RdRunnerUpCordovaPublicCollege{
+    width: 180px; 
+    left: 284px; 
+    top: 235px; 
+    position: absolute; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    line-height: 20px; 
+    word-wrap: break-word;
+  }
+  
+  .Tesda{
+    left: 284px; 
+    top: 340px; 
+    position: absolute; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .ProgrammingChallenge{
+    left: 284px; 
+    top: 205px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    letter-spacing: 1.80px; 
+    word-wrap: break-word;
+  }
+  
+  .Programming2{
+    left: 805px; 
+    top: 275px; 
+    position: absolute; 
+    text-align: justify; 
+    color: #EA5C5A; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 500; 
+    letter-spacing: 1.80px; 
+    line-height: 20px; 
+    word-wrap: break-word;
+  }
+  
+  .ObjectOrientedProgramming1{
+    left: 804px; 
+    top: 345px; 
+    position: absolute; 
+    text-align: justify; 
+    color: #EA5C5A; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 500; 
+    letter-spacing: 1.80px; 
+    line-height: 20px; 
+    word-wrap: break-word;
+  }
+  
+  .HumanComputerInteraction{
+    left: 1168px; 
+    top: 275px; 
+    position: absolute; 
+    text-align: justify; 
+    color: #EA5C5A; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 500; 
+    letter-spacing: 1.80px; 
+    line-height: 20px; 
+    word-wrap: break-word;
+  }
+  
+  .Unknown{
+    left: 1168px; 
+    top: 340px; 
+    position: absolute; 
+    text-align: justify; 
+    color: #EA5C5A; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 500; 
+    letter-spacing: 1.80px; 
+    word-wrap: break-word;
+  }
+  
+  .CreativeWebDesign{
+    left: 284px; 
+    top: 310px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    letter-spacing: 1.80px; 
+    word-wrap: break-word;
+  }
+  
+@media (max-width: 320px){
+  
+  .CertificatesMajorSub{
+    display: flex;
+    left: 2vw; 
+    top: 178vh; 
+    width: 50vh;
+    height: 45vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .Rectangle12{
+    width: 26vh; 
+    height: 150px; 
+    border-radius: 10px;
+  }
+
+  .CertificatesAwards{
+    width: 150px; 
+    height: 65px; 
+    left: 3px; 
+    top:10px; 
+    font-size: 20px; 
+    line-height: 20px;
+  }
+
+  .Heart_Certificate1, .Heart_Certicate2{
+    width: 1px;
+    height: 1px;
+    left: 10px;
+  }
+
+  .Heart_Certificate1{ top: 68px; }
+  .Heart_Certicate2{ top: 110px; }
+
+  .Iconii_cer{
+    font-size: 10px;
+  }
+
+  .Line4{
+    width: 4vh;
+    left: 11.5px; 
+    top: 75px;
+  }
+
+  .May52024, .OctoberDecember2023{
+    left: 20px;
+    font-size: 9px;
+  }
+
+  .May52024{  top: 64px;  }
+  .OctoberDecember2023{ top: 105px; }
+
+  .ProgrammingChallenge, .CreativeWebDesign{
+    left: 20px;
+    font-size: 7px;
+  }
+
+  .ProgrammingChallenge { top: 75px;  }
+  .CreativeWebDesign { top: 115px;  }
+
+  .RdRunnerUpCordovaPublicCollege, .Tesda{
+    left: 20px;
+    font-size: 6px;
+  }
+
+  .RdRunnerUpCordovaPublicCollege { top:85px; line-height: 8px; }
+  .Tesda {  top: 124px; }
+
+  .MajorSubjectPerYearLevel{
+    left: 50vw; 
+    top:15vh; 
+    font-size: 15px; 
+    line-height: 15px;
+  }
+
+  .StYear, .NdYear, .RdYear, .ThYear{
+    font-size: 9px;
+    left: 50vw;
+  }
+
+  .StYear{top: 40vw;}
+  .NdYear{top: 46vw;}
+  .RdYear{top: 55vw;}
+  .ThYear{top: 65vw;}
+
+  .Programming2, .ObjectOrientedProgramming1, .HumanComputerInteraction, .Unknown{
+    font-size: 7px;
+    left: 70vw;
+    line-height: 8px;
+  }
+
+  .Programming2{top: 41vw;}
+  .ObjectOrientedProgramming1{top: 47vw;}
+  .HumanComputerInteraction{top: 56vw;}
+  .Unknown{top: 66vw;}
+
+}
+
+@media (min-width: 375px) {
+  
+  .CertificatesMajorSub {
+    display: flex;
+    left: 2vw;
+    top: 178vh;
+    width: 60vh;
+    height: 45vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .Rectangle12 {
+    width: 26vh;
+    height: 150px;
+    border-radius: 10px;
+  }
+
+  .CertificatesAwards {
+    width: 150px;
+    height: 65px;
+    left: 3px;
+    top: 10px;
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .Heart_Certificate1,
+  .Heart_Certicate2 {
+    width: 1px;
+    height: 1px;
+    left: 10px;
+  }
+
+  .Heart_Certificate1 {
+    top: 68px;
+  }
+
+  .Heart_Certicate2 {
+    top: 110px;
+  }
+
+  .Iconii_cer {
+    font-size: 10px;
+  }
+
+  .Line4 {
+    width: 4vh;
+    left: 11.5px;
+    top: 75px;
+  }
+
+  .May52024,
+  .OctoberDecember2023 {
+    left: 20px;
+    font-size: 9px;
+  }
+
+  .May52024 {
+    top: 64px;
+  }
+
+  .OctoberDecember2023 {
+    top: 105px;
+  }
+
+  .ProgrammingChallenge,
+  .CreativeWebDesign {
+    left: 20px;
+    font-size: 7px;
+  }
+
+  .ProgrammingChallenge {
+    top: 75px;
+  }
+
+  .CreativeWebDesign {
+    top: 115px;
+  }
+
+  .RdRunnerUpCordovaPublicCollege,
+  .Tesda {
+    left: 20px;
+    font-size: 6px;
+  }
+
+  .RdRunnerUpCordovaPublicCollege {
+    top: 85px;
+    line-height: 8px;
+  }
+
+  .Tesda {
+    top: 124px;
+  }
+
+  .MajorSubjectPerYearLevel {
+    left: 50vw;
+    top: 15vh;
+    font-size: 15px;
+    line-height: 15px;
+  }
+
+  .StYear,
+  .NdYear,
+  .RdYear,
+  .ThYear {
+    font-size: 9px;
+    left: 50vw;
+  }
+
+  .StYear {
+    top: 35vw;
+  }
+
+  .NdYear {
+    top: 42vw;
+  }
+
+  .RdYear {
+    top: 49vw;
+  }
+
+  .ThYear {
+    top: 55vw;
+  }
+
+  .Programming2,
+  .ObjectOrientedProgramming1,
+  .HumanComputerInteraction,
+  .Unknown {
+    font-size: 7px;
+    left: 70vw;
+    line-height: 8px;
+  }
+
+  .Programming2 {
+    top: 35vw;
+  }
+
+  .ObjectOrientedProgramming1 {
+    top: 41vw;
+  }
+
+  .HumanComputerInteraction {
+    top: 48.5vw;
+  }
+
+  .Unknown {
+    top: 55.5vw;
+  }
+}
+
+@media (min-width: 768px){
+  
+  .CertificatesMajorSub{
+    display: flex;
+    left: 2vw; 
+    top: 205vh; 
+    width: 127vh;
+    height: 50vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .Rectangle12{
+    left:4vw;
+    width: 50vh; 
+    height: 35vh; 
+    border-radius: 10px;
+  }
+
+  .CertificatesAwards{
+    width: 50vw; 
+    height: 50vh; 
+    left: 5vw; 
+    top:10px; 
+    font-size: 30px; 
+    line-height: 35px;
+  }
+
+  .Heart_Certificate1, .Heart_Certicate2{
+    width: 1px;
+    height: 1px;
+    left: 6vw;
+  }
+
+  .Heart_Certificate1{ top: 100px; }
+  .Heart_Certicate2{ top: 150px; }
+
+  .Iconii_cer{
+    font-size: 15px;
+  }
+
+  .Line4{
+    width: 6vh;
+    left: 6.2vw; 
+    top: 107px;
+  }
+
+  .May52024, .OctoberDecember2023{
+    left: 8vw;
+    font-size: 15px;
+  }
+
+  .May52024{  top: 90px;  }
+  .OctoberDecember2023{ top: 140px; }
+
+  .ProgrammingChallenge, .CreativeWebDesign{
+    left: 8vw;
+    font-size: 10px;
+  }
+
+  .ProgrammingChallenge { top: 110px;  }
+  .CreativeWebDesign { top: 160px;  }
+
+  .RdRunnerUpCordovaPublicCollege, .Tesda{
+    left: 8vw;
+    font-size: 8px;
+  }
+
+  .RdRunnerUpCordovaPublicCollege { top:125px; line-height: 8px; }
+  .Tesda {  top: 175px; }
+
+  .MajorSubjectPerYearLevel{
+    left: 50vw; 
+    top:15vh; 
+    font-size: 30px; 
+    line-height: 35px;
+  }
+
+  .StYear, .NdYear{
+    font-size: 15px;
+    left: 50vw;
+  }
+
+  .RdYear, .ThYear{
+    font-size: 15px;
+    left: 75vw;
+  }
+
+  .StYear{top: 30vh;}
+  .NdYear{top: 40vh;}
+  .RdYear{top: 30vh;}
+  .ThYear{top: 31vw;}
+
+  .Programming2, .ObjectOrientedProgramming1{
+    font-size: 12px;
+    left: 60vw;
+    line-height: 15px;
+  }
+
+  .HumanComputerInteraction, .Unknown{
+    font-size: 12px;
+    left: 85vw;
+    line-height: 15px;
+  }
+
+  .Programming2{top: 30vh;}
+  .ObjectOrientedProgramming1{top: 38vh;}
+  .HumanComputerInteraction{top: 28.4vh;}
+  .Unknown{top: 41vh;}
+
+}
+
+@media(min-width: 1024px){
+  .CertificatesMajorSub{
+    display: flex;
+    width: 160vh;
+  }
+
+  .ThYear{display: flex; top: 40.1vh;}
+}
+
+@media(min-width: 1366px){
+  .Heart_Certificate1{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+    top: 200px; 
+    left: 70px;
+  
+  }
+  
+  .Heart_Certicate2{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+    top: 280px; 
+    left: 70px;
+  }
+  
+  .Iconii_cer{
+    color: #9AA972; /* Icon color */
+    font-size: 16px; /* Adjust icon size as needed */
+  }
+  
+  .Line4{
+    width: 44px; 
+    height: 0px; 
+    left: 86px; 
+    top: 230px; 
+    position: absolute; 
+    transform: rotate(90deg); transform-origin: 0 0; 
+    border: 1px #F1E9D2 solid;
+  }
+  /* Certificates Section*/
+  
+  .CertificatesMajorSub{
+      width: 1302px; 
+      height: 423px; 
+      left: 30px; 
+      top: 1777px; 
+      position: absolute;
+    }
+    
+    .Rectangle12{
+      width: 600px; 
+      height: 404px; 
+      left: 0px; 
+      top: 0px; 
+      position: absolute; 
+      background: #EA5C5A;
+    }
+    
+    .CertificatesAwards{
+      width: 450px; 
+      height: 65px; 
+      left: 73px; 
+      top: 34px; 
+      position: absolute; 
+      color: black; 
+      font-size: 45px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+    }
+    
+    .MajorSubjectPerYearLevel{
+      width: 564px; 
+      height: 65px; 
+      left: 657px; 
+      top: 165px; 
+      position: absolute; 
+      color: black; 
+      font-size: 45px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      line-height: 46.24px; 
+      word-wrap: break-word;
+    }
+    
+    
+    /* Certificates and Awards Year and Program */
+    .May52024{
+      width: 150px; 
+      height: 34px; 
+      left: 120px; 
+      top: 200px; 
+      position: absolute; 
+      color: white; 
+      font-size: 24px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+    }
+    
+    .StYear{
+      width: 105px; 
+      height: 34px; 
+      left: 659px; 
+      top: 265px; 
+      position: absolute; 
+      color: #707E4C; 
+      font-size: 24px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+    }
+    
+    .NdYear{
+      width: 152px; 
+      height: 34px; 
+      left: 657px; 
+      top: 335px; 
+      position: absolute; 
+      color: #707E4C; 
+      font-size: 24px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+    }
+    
+    .RdYear{
+      width: 134px; 
+      height: 34px; 
+      left: 1022px; 
+      top: 265px; 
+      position: absolute; 
+      color: #707E4C; 
+      font-size: 24px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+    }
+    
+    .ThYear{
+      width: 134px; 
+      height: 34px; 
+      left: 1021px; 
+      top: 335px; 
+      position: absolute; 
+      color: #707E4C; 
+      font-size: 24px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+    }
+    
+    .OctoberDecember2023{
+      width: 325px; 
+      height: 34px; 
+      left: 120px; 
+      top: 280px; 
+      position: absolute; 
+      color: white; 
+      font-size: 24px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+    }
+    
+    .RdRunnerUpCordovaPublicCollege{
+      width: 180px; 
+      left: 284px; 
+      top: 235px; 
+      position: absolute; 
+      color: white; 
+      font-size: 15px; 
+      font-family: Comfortaa; 
+      font-weight: 400; 
+      line-height: 20px; 
+      word-wrap: break-word;
+    }
+    
+    .Tesda{
+      left: 284px; 
+      top: 340px; 
+      position: absolute; 
+      color: white; 
+      font-size: 15px; 
+      font-family: Comfortaa; 
+      font-weight: 400; 
+      word-wrap: break-word;
+    }
+    
+    .ProgrammingChallenge{
+      left: 284px; 
+      top: 205px; 
+      position: absolute; 
+      text-align: justify; 
+      color: white; 
+      font-size: 20px; 
+      font-family: Comfortaa; 
+      font-weight: 600; 
+      letter-spacing: 1.80px; 
+      word-wrap: break-word;
+    }
+    
+    .Programming2{
+      left: 805px; 
+      top: 275px; 
+      position: absolute; 
+      text-align: justify; 
+      color: #EA5C5A; 
+      font-size: 20px; 
+      font-family: Comfortaa; 
+      font-weight: 500; 
+      letter-spacing: 1.80px; 
+      line-height: 20px; 
+      word-wrap: break-word;
+    }
+    
+    .ObjectOrientedProgramming1{
+      left: 804px; 
+      top: 345px; 
+      position: absolute; 
+      text-align: justify; 
+      color: #EA5C5A; 
+      font-size: 20px; 
+      font-family: Comfortaa; 
+      font-weight: 500; 
+      letter-spacing: 1.80px; 
+      line-height: 20px; 
+      word-wrap: break-word;
+    }
+    
+    .HumanComputerInteraction{
+      left: 1168px; 
+      top: 275px; 
+      position: absolute; 
+      text-align: justify; 
+      color: #EA5C5A; 
+      font-size: 20px; 
+      font-family: Comfortaa; 
+      font-weight: 500; 
+      letter-spacing: 1.80px; 
+      line-height: 20px; 
+      word-wrap: break-word;
+    }
+    
+    .Unknown{
+      left: 1168px; 
+      top: 340px; 
+      position: absolute; 
+      text-align: justify; 
+      color: #EA5C5A; 
+      font-size: 20px; 
+      font-family: Comfortaa; 
+      font-weight: 500; 
+      letter-spacing: 1.80px; 
+      word-wrap: break-word;
+    }
+    
+    .CreativeWebDesign{
+      left: 284px; 
+      top: 310px; 
+      position: absolute; 
+      text-align: justify; 
+      color: white; 
+      font-size: 20px; 
+      font-family: Comfortaa; 
+      font-weight: 600; 
+      letter-spacing: 1.80px; 
+      word-wrap: break-word;
+    }
+}
+
+@media (min-width: 1440px){
+  
+  .CertificatesMajorSub{
+    display: flex;
+    left: 2vw; 
+    top: 240vh; 
+    width: 98%;
+    height: 70vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .Rectangle12{
+    left:4vw;
+    width: 40vw; 
+    height: 55vh; 
+    border-radius: 10px;
+  }
+
+  .CertificatesAwards{
+    width: 50vw; 
+    height: 50vh; 
+    left: 6vw; 
+    top:25px; 
+    font-size: 8vh; 
+    line-height: 55px;
+  }
+
+  .Heart_Certificate1, .Heart_Certicate2{
+    width: 1px;
+    height: 1px;
+    left: 7vw;
+  }
+
+  .Heart_Certificate1{ top: 28vh; }
+  .Heart_Certicate2{ top: 43vh; }
+
+  .Iconii_cer{
+    font-size: 25px;
+  }
+
+  .Line4{
+    width: 10vh;
+    left: 7.2vw; 
+    top: 31vh;
+  }
+
+  .May52024, .OctoberDecember2023{
+    left: 8.4vw;
+    font-size: 3vh;
+  }
+
+  .May52024{  top: 26vh;  }
+  .OctoberDecember2023{ top: 41vh; }
+
+  .ProgrammingChallenge, .CreativeWebDesign{
+    left: 20vw;
+    font-size: 2.6vh;
+  }
+
+  .ProgrammingChallenge { top: 26.3vh;  }
+  .CreativeWebDesign { top: 45vh;  }
+
+  .RdRunnerUpCordovaPublicCollege, .Tesda{
+    left: 20vw;
+    font-size: 2vh;
+  }
+
+  .RdRunnerUpCordovaPublicCollege { top:30vh; line-height: 15px; }
+  .Tesda {  top: 48vh; }
+
+  .MajorSubjectPerYearLevel{
+    display: flex;
+    left: 50vw; 
+    top:25vh; 
+    font-size: 8vh; 
+    line-height: 50px;
+    height: 15vh;
+  }
+
+  .StYear, .NdYear{
+    font-size: 3vh;
+    left: 50vw;
+  }
+
+  .RdYear, .ThYear{
+    font-size: 3vh;
+    left: 75vw;
+  }
+
+  .StYear{top: 45vh;}
+  .NdYear{top:60vh;}
+  .RdYear{top: 45vh;}
+  .ThYear{top: 60vh;}
+
+  .Programming2, .ObjectOrientedProgramming1{
+    font-size: 2.6vh;
+    left: 60vw;
+    line-height: 15px;
+  }
+
+  .HumanComputerInteraction, .Unknown{
+    font-size: 2.6vh;
+    left: 85vw;
+    line-height: 15px;
+  }
+
+  .Programming2{top: 46vh;}
+  .ObjectOrientedProgramming1{top: 59vh;}
+  .HumanComputerInteraction{top: 44vh;}
+  .Unknown{top: 61vh;}
+
+}

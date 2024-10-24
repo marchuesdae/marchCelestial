@@ -1,0 +1,1008 @@
+/* *CONTANCT SECTION */
+a:hover .MarchelNgujo_3 {
+  color: #EA5C5A; 
+  transform: scale(1.1); 
+}
+
+
+.phone-number:hover {
+  color: #EA5C5A; 
+  transform: scale(1.1); 
+}
+
+
+.Marchelngujo2GmailCom:hover {
+  color: #EA5C5A; 
+  transform: scale(1.1); 
+}
+
+.Heart, .Heart2, .Heart3, .Heart4 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+
+.Contact{
+  display: flex;
+    width: 100vw; 
+    height: 100vh; 
+    left: 700px; 
+    top: 118vh; 
+    position: absolute;
+  }
+  
+  .Rectangle13, .Rectangle14{
+    width: 400px;
+    left: 136px;
+    position: absolute;
+  }
+  
+  .Rectangle13{
+    height: 530px;
+    top: 161px;
+    background: #9AA972;
+  }
+  
+  .Rectangle14{
+    height: 235px;
+    top: 456px;
+    background: black;
+    border-radius: 10px;
+  }
+  
+  .Phone{
+    width: 24px; 
+    height: 24px; 
+    left: 188px; 
+    top: 638px; 
+    position: absolute;
+  }
+  
+  .phone-icon{
+    font-size: 24px; 
+    color: #EA5C5A;
+  }
+  
+  .Facebook{
+    display: flex;
+    width: 24px; 
+    height: 24px; 
+    left: 189px; 
+    top: 599px; 
+    position: absolute;
+  }
+  
+  .facebook-link {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-decoration: none; 
+  }
+  
+  .fa-brands {
+    font-size: 24px;
+    color: #EA5C5A;
+    transition: color 0.3s ease;
+  }
+  
+  /* Gmail Account */
+  .Marchelngujo2GmailCom{
+    left: 228px; 
+    top: 558px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    text-decoration: underline; 
+    word-wrap: break-word
+  }
+  
+  /* Facebook Name */
+  
+  .MarchelNgujo_3{
+    left: 228px; 
+    top: 598px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  /* Phone number */
+  .phone-number{
+    left: 228px; 
+    top: 635px;
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+      word-wrap: break-word;
+  }
+  
+  /* Contact Icon */
+  .Contact_2{
+    left: 189px; 
+    top: 485px; 
+    position: absolute; 
+    color: #EA5C5A; 
+    font-size: 45px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word
+  }
+  
+  .Mail{
+    width: 24px; 
+    height: 24px; 
+    left: 189px; 
+    top: 562px; 
+    position: absolute
+  }
+  
+  .fa-regular{
+    font-size: 24px;
+    color: #EA5C5A;
+  }
+  
+  .ImagePhotoroom1{
+    width: 400px; 
+    height: 456px; 
+    left: 164px; 
+    top: 0px; 
+    position: absolute
+  }
+  
+  /* March 30 2004 Backgground*/
+  .Rectangle15{
+    width: 231px; 
+    height: 60px; 
+    left: 0px; 
+    top: 271px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border-radius: 80px
+  }
+  
+  /* Filipino Background */
+  .Rectangle16{
+    width: 231px; 
+    height: 60px; 
+    left: 396px; 
+    top: 387px; 
+    position: absolute; 
+    background: #EA5C5A;
+    border-radius: 80px
+  }
+  
+  /* March302004 */
+  .March302004{
+    left: 45px; 
+    top: 287px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word
+  }
+  
+  /* Filipino */
+  .Filipino{
+    left: 480px; 
+    top: 403px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word
+  }
+
+  @media (max-width: 320px) {
+    
+
+    .Contact{
+      display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 100vh;
+        position: absolute;
+        left: auto; /* Keep within screen */
+        top: 100vh; 
+
+        overflow: hidden;
+
+        
+      }
+    
+    .Rectangle13, .Rectangle14{
+      width: 100px;
+      left: 65vw;
+    } 
+
+    .Rectangle13{
+      height: 20vh;
+      top: 30vh;
+    }
+    
+    .Rectangle14{
+      height: 80px;
+      top: 40vh;
+    }
+
+    .ImagePhotoroom1{
+      width: 130px; 
+      height: 140px; 
+      left: 65vw; 
+      top: 16.5vh; 
+    }
+
+    
+    
+  /* March 30 2004 Backgground*/
+  .Rectangle15{
+    width: 15vw; 
+    height: 2vh; 
+    left: 60vw; 
+    top: 33vh; 
+  }
+  
+  /* Filipino Background */
+  .Rectangle16{
+    width: 15vw; 
+    height: 2vh; 
+    left: 85vw; 
+    top: 37.5vh; 
+  }
+
+  /* March302004 */
+  .March302004{
+    left: 61.5vw; 
+    font-size: 5px; 
+    top: 33.5vh
+  }
+  
+  /* Filipino */
+  .Filipino{
+    left: 90vw;
+    top: 38vh;
+    font-size: 5px; 
+  }
+
+  .Phone{
+    width: 5px; 
+    height: 5px; 
+    left: 67vw; 
+    top: 48vh; 
+  }
+
+  .phone-icon{
+    font-size: 10px; 
+    color: #EA5C5A;
+  }
+
+  .Facebook{
+    width: 25px; 
+    height: 25px; 
+    left: 67vw; 
+    top: 45vh; 
+  }
+  
+  .fa-brands {
+    font-size: 10px;
+    color: #EA5C5A;
+    transition: color 0.3s ease;
+  }
+
+  .Mail{
+    width: 25px; 
+    height: 25px; 
+    left: 67vw; 
+    top: 42vh; 
+  }
+  
+  .fa-regular{
+    font-size: 10px;
+    color: #EA5C5A;
+  }
+
+   /* Contact Icon */
+   .Contact_2{
+    left: 67vw;  
+    top: 40.2vh; 
+    font-size: 15px; 
+  }
+  /* Gmail Account */
+  .Marchelngujo2GmailCom{
+    left: 71vw;  
+    top: 44vh; 
+    font-size: 5px; 
+  }
+  
+  /* Facebook Name */
+  
+  .MarchelNgujo_3{
+    left: 71vw;  
+    top: 47vh; 
+    font-size: 5px; 
+  }
+  
+  /* Phone number */
+  .phone-number{
+    left: 71vw;   
+    top: 50vh; 
+    font-size: 5px; 
+  }
+  
+
+}
+
+@media(min-width: 375px){
+  .Contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    left: auto;
+    top: 100vh;
+    overflow: hidden;
+  }
+
+  .Rectangle13,
+  .Rectangle14 {
+    width: 110px;
+    left: 65vw;
+  }
+
+  .Rectangle13 {
+    height: 22vh;
+    top: 30vh;
+  }
+
+  .Rectangle14 {
+    height: 85px;
+    top: 40vh;
+  }
+
+  .ImagePhotoroom1 {
+    width: 140px;
+    height: 150px;
+    left: 65vw;
+    top: 14.7vh;
+  }
+
+  .Rectangle15 {
+    width: 17vw;
+    height: 2.2vh;
+    left: 60vw;
+    top: 33vh;
+  }
+
+  .Rectangle16 {
+    width: 17vw;
+    height: 2.2vh;
+    left: 85vw;
+    top: 37.5vh;
+  }
+
+  .March302004 {
+    left: 62vw;
+    font-size: 6px;
+    top: 33.5vh;
+  }
+
+  .Filipino {
+    left: 90vw;
+    top: 38vh;
+    font-size: 6px;
+  }
+
+  .Phone {
+    width: 6px;
+    height: 6px;
+    left: 67vw;
+    top: 48vh;
+  }
+
+  .phone-icon {
+    font-size: 12px;
+    color: #ea5c5a;
+  }
+
+  .Facebook {
+    width: 28px;
+    height: 28px;
+    left: 67vw;
+    top: 45vh;
+  }
+
+  .fa-brands {
+    font-size: 12px;
+    color: #ea5c5a;
+    transition: color 0.3s ease;
+  }
+
+  .Mail {
+    width: 28px;
+    height: 28px;
+    left: 67vw;
+    top: 42vh;
+  }
+
+  .fa-regular {
+    font-size: 12px;
+    color: #ea5c5a;
+  }
+
+  .Contact_2 {
+    left: 67vw;
+    top: 40.2vh;
+    font-size: 16px;
+  }
+
+  .Marchelngujo2GmailCom,
+  .MarchelNgujo_3,
+  .phone-number {
+    left: 71vw;
+    font-size: 6px;
+  }
+
+  .Marchelngujo2GmailCom {
+    top: 44vh;
+  }
+
+  .MarchelNgujo_3 {
+    top: 47vh;
+  }
+
+  .phone-number {
+    top: 50vh;
+  }
+}
+
+  @media (min-width: 768px) {
+    
+
+    .Contact{
+      display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 100vh;
+        position: absolute;
+        left: auto; /* Keep within screen */
+        top: 100vh; 
+
+        overflow: hidden;
+        
+      }
+    
+    .Rectangle13, .Rectangle14{
+      width: 30vw;
+      left: 60vw;
+    } 
+
+    .Rectangle13{
+      height: 50vh;
+      top: 180px;
+      border-radius: 10px;
+    }
+    
+    .Rectangle14{
+      height: 150px;
+      top: 60vh;
+    }
+
+    .ImagePhotoroom1{
+      width: 240px; 
+      height: 280px; 
+      left: 62vw; 
+      top: 12.6vh; 
+    }
+
+    
+    
+  /* March 30 2004 Backgground*/
+  .Rectangle15{
+    width: 15vw; 
+    height: 5vh; 
+    left: 53vw;
+    top: 45vh; 
+  }
+  
+  /* Filipino Background */
+  .Rectangle16{
+    width: 15vw; 
+    height: 5vh; 
+    left: 80vw; 
+    top: 54vh; 
+  }
+
+  /* March302004 */
+  .March302004{
+    width: 15vw; 
+    height: 5vh; 
+    left: 55.5vw; 
+    top: 45.9vh; 
+    font-size: 10px;
+  }
+  
+  /* Filipino */
+  .Filipino{
+    width: 15vw; 
+    height: 5vh; 
+    left: 85vw; 
+    top: 55vh; 
+    font-size: 10px;
+  }
+
+  .Phone{
+    width: 5px; 
+    height: 5px; 
+    left: 63vw; 
+    top: 80vh; 
+  }
+
+  .phone-icon{
+    font-size: 20px; 
+    color: #EA5C5A;
+  }
+
+  .Facebook{
+    width: 25px; 
+    height: 25px; 
+    left: 63.5vw; 
+    top: 73vh; 
+  }
+  
+  .fa-brands {
+    font-size: 20px;
+    color: #EA5C5A;
+    transition: color 0.3s ease;
+  }
+
+  .Mail{
+    width: 25px; 
+    height: 25px; 
+    left: 63vw; 
+    top: 67vh; 
+  }
+  
+  .fa-regular{
+    font-size: 20px;
+    color: #EA5C5A;
+  }
+
+   /* Contact Icon */
+   .Contact_2{
+    left: 63vw; 
+    top: 60vh; 
+    font-size: 30px; 
+  }
+  /* Gmail Account */
+  .Marchelngujo2GmailCom{
+    left: 67vw; 
+    top: 67.5vh; 
+    font-size: 10px; 
+  }
+  
+  /* Facebook Name */
+  
+  .MarchelNgujo_3{
+    left: 67vw; 
+    top: 74vh; 
+    font-size: 10px; 
+  }
+  
+  /* Phone number */
+  .phone-number{
+    left: 67vw; 
+    top: 80vh; 
+    font-size: 10px; 
+  }
+  
+
+}
+
+@media(min-width: 1024px){
+  .Contact{
+    display: flex;
+    left: 2.4vw;
+    width: 96vw;
+  }
+  .Rectangle13, .Rectangle14{
+    width: 25vw;
+  }
+
+  .Rectangle15{
+    width: 11vw;
+    left: 55vw;
+  }
+
+  .March302004{
+    left: 57vw;
+  }
+
+  .Rectangle16{
+    width: 11vw;
+  }
+
+  .Filipino{
+    left: 83.5vw;
+  }
+
+  .Marchelngujo2GmailCom, .MarchelNgujo_3, .phone-number{
+    font-size: 12px;
+  }
+}
+
+@media(min-width: 1366px){
+  /* *CONTANCT SECTION */
+a:hover .MarchelNgujo_3 {
+  color: #EA5C5A; /* Custom hover color */
+  transform: scale(1.1); /* Makes the text slightly larger on hover */
+}
+
+/* Hover effect for the phone number */
+.phone-number:hover {
+  color: #EA5C5A; /* Custom hover color */
+  transform: scale(1.1); /* Makes the text slightly larger on hover */
+}
+
+/* Hover effect for email address */
+.Marchelngujo2GmailCom:hover {
+  color: #EA5C5A; /* Custom hover color */
+  transform: scale(1.1); /* Makes the text slightly larger on hover */
+}
+
+/* Style for the heart icon container */
+.Heart, .Heart2, .Heart3, .Heart4 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  display: flex;
+  align-items: center; /* Center items vertically */
+  justify-content: center; /* Center items horizontally */
+}
+
+.Contact{
+  display: flex;
+    width: 48vw; 
+    height: 110vh; 
+    left: 700px; 
+    top: 118vh; 
+    position: absolute;
+  }
+  
+  .Rectangle13, .Rectangle14{
+    width: 400px;
+    left: 136px;
+    position: absolute;
+  }
+  
+  .Rectangle13{
+    height: 530px;
+    top: 161px;
+    background: #9AA972;
+  }
+  
+  .Rectangle14{
+    height: 235px;
+    top: 456px;
+    background: black;
+    border-radius: 10px;
+  }
+  
+  .Phone{
+    width: 24px; 
+    height: 24px; 
+    left: 188px; 
+    top: 638px; 
+    position: absolute;
+  }
+  
+  .phone-icon{
+    font-size: 24px; 
+    color: #EA5C5A;
+  }
+  
+  .Facebook{
+    display: flex;
+    width: 24px; 
+    height: 24px; 
+    left: 189px; 
+    top: 599px; 
+    position: absolute;
+  }
+  
+  .facebook-link {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    text-decoration: none; 
+  }
+  
+  .fa-brands {
+    font-size: 24px;
+    color: #EA5C5A;
+    transition: color 0.3s ease;
+  }
+  
+  /* Gmail Account */
+  .Marchelngujo2GmailCom{
+    left: 228px; 
+    top: 558px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    text-decoration: underline; 
+    word-wrap: break-word
+  }
+  
+  /* Facebook Name */
+  
+  .MarchelNgujo_3{
+    left: 228px; 
+    top: 598px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  /* Phone number */
+  .phone-number{
+    left: 228px; 
+    top: 635px;
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+      word-wrap: break-word;
+  }
+  
+  /* Contact Icon */
+  .Contact_2{
+    left: 189px; 
+    top: 485px; 
+    position: absolute; 
+    color: #EA5C5A; 
+    font-size: 45px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word
+  }
+  
+  .Mail{
+    width: 24px; 
+    height: 24px; 
+    left: 189px; 
+    top: 562px; 
+    position: absolute
+  }
+  
+  .fa-regular{
+    font-size: 24px;
+    color: #EA5C5A;
+  }
+  
+  .ImagePhotoroom1{
+    width: 400px; 
+    height: 456px; 
+    left: 164px; 
+    top: 0px; 
+    position: absolute
+  }
+  
+  /* March 30 2004 Backgground*/
+  .Rectangle15{
+    width: 231px; 
+    height: 60px; 
+    left: 0px; 
+    top: 271px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border-radius: 80px
+  }
+  
+  /* Filipino Background */
+  .Rectangle16{
+    width: 231px; 
+    height: 60px; 
+    left: 396px; 
+    top: 387px; 
+    position: absolute; 
+    background: #EA5C5A;
+    border-radius: 80px
+  }
+  
+  /* March302004 */
+  .March302004{
+    left: 45px; 
+    top: 287px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word
+  }
+  
+  /* Filipino */
+  .Filipino{
+    left: 480px; 
+    top: 403px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word
+  }
+}
+
+@media (min-width: 1440px) {
+    
+
+  .Contact{
+    display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100vw;
+      height: 150vh;
+      position: absolute;
+      left: auto; /* Keep within screen */
+      top: 100vh; 
+
+      overflow: hidden;
+      
+    }
+  
+  .Rectangle13, .Rectangle14{
+    width: 20vw;
+    left: 60vw;
+  } 
+
+  .Rectangle13{
+    height: 50vh;
+    top: 220px;
+    border-radius: 10px;
+  }
+  
+  .Rectangle14{
+    height: 250px;
+    top: 69vh;
+  }
+
+  .ImagePhotoroom1{
+    width: 20vw; 
+    height: 50vh; 
+    left: 61vw; 
+    top: 19vh; 
+  }
+
+  
+  
+/* March 30 2004 Backgground*/
+.Rectangle15{
+  width: 10vw; 
+  height: 5vh; 
+  left: 55vw;
+  top: 50vh; 
+}
+
+/* Filipino Background */
+.Rectangle16{
+  width: 10vw; 
+  height: 5vh; 
+  left: 75vw; 
+  top: 62vh; 
+}
+
+/* March302004 */
+.March302004{
+  width: 15vw; 
+  height: 5vh; 
+  left: 56.1vw; 
+  top: 51vh; 
+  font-size: 15px;
+}
+
+/* Filipino */
+.Filipino{
+  width: 15vw; 
+  height: 5vh; 
+  left: 78vw; 
+  top: 63vh; 
+  font-size: 15px;
+}
+
+.Phone{
+  width: 5px; 
+  height: 5px; 
+  left: 62vw; 
+  top: 98vh; 
+}
+
+.phone-icon{
+  font-size: 30px; 
+  color: #EA5C5A;
+}
+
+.Facebook{
+  width: 25px; 
+  height: 25px; 
+  left: 62vw; 
+  top: 89vh; 
+}
+
+.fa-brands {
+  font-size: 30px;
+  color: #EA5C5A;
+  transition: color 0.3s ease;
+}
+
+.Mail{
+  width: 25px; 
+  height: 25px; 
+  left: 62vw; 
+  top: 79vh; 
+}
+
+.fa-regular{
+  font-size: 30px;
+  color: #EA5C5A;
+}
+
+ /* Contact Icon */
+ .Contact_2{
+  left: 61vw; 
+  top: 69vh; 
+  font-size: 8vh; 
+}
+/* Gmail Account */
+.Marchelngujo2GmailCom{
+  left: 65vw; 
+  top: 80vh; 
+  font-size: 15px; 
+}
+
+/* Facebook Name */
+
+.MarchelNgujo_3{
+  left: 65vw; 
+  top: 89vh; 
+  font-size: 20px; 
+}
+
+/* Phone number */
+.phone-number{
+  left: 65vw; 
+  top: 98vh; 
+  font-size: 20px; 
+}
+
+
+}
+
+
+  

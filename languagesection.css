@@ -1,0 +1,1430 @@
+.Language1{
+   width: 574px; 
+   height: 244px; 
+   left: 685px; 
+   top: 2210px; 
+   position: absolute;
+}
+
+.Language2{
+     width: 272px; 
+     height: 65px; 
+     left: 0px; 
+     top: 0px; 
+     position: absolute; 
+     color: black; 
+     font-size: 45px; 
+     font-family: Bevan; 
+     font-weight: 400; 
+     word-wrap: break-word;
+}
+
+.Ellipse5{
+    width: 70px; 
+    height: 70px; 
+    left: 0px; 
+    top: 81px; 
+    position: absolute; 
+    background: #707E4C; 
+    border-radius: 9999px;
+}
+
+.Ellipse7{
+    width: 70px; 
+    height: 70px; 
+    left: 0px; 
+    top: 167px; 
+    position: absolute; 
+    background: #707E4C; 
+    border-radius: 9999px;
+}
+
+.Ceb{
+     left: 6px; 
+     top: 95px; 
+     position: absolute; 
+     color: white; 
+     font-size: 24px; 
+     font-family: Bevan; 
+     font-weight: 400; 
+     word-wrap: break-word;
+}
+
+.Ellipse6{
+     width: 70px;
+     height: 70px; 
+     left: 345px; 
+     top: 81px; 
+     position: absolute; 
+     background: #707E4C; 
+     border-radius: 9999px;
+}
+
+.En{
+    left: 359px; 
+    top: 98px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.Fil{
+    left: 13px; 
+    top: 184px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; word-wrap: break-word;
+}
+
+.Native{
+    width: 51px; 
+    left: 13px; 
+    top: 110px; 
+    position: absolute; 
+    color: #F37876; 
+    font-size: 15px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: .4px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.Ell1{
+    width: 54px; 
+    height: 50px; 
+    left: 92px; 
+    top: 93px; 
+    position: absolute;
+}
+
+.Vector_1{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 21.88px; 
+    position: absolute;
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+}
+
+.Vector_2 {
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+}
+
+.Vector_3 {
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+}
+
+.Ell2{
+    width: 54px; 
+    height: 50px; 
+    left: 145px; 
+    top: 93px; 
+    position: absolute;
+}
+
+.Vector_4 {
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+}
+
+.Vector_5 {
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40.50px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+}
+
+.Vector_6 {
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 21.88px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+}
+
+.Ell3{
+    width: 54px; 
+    height: 50px; 
+    left: 195px; 
+    top: 93px; 
+    position: absolute;
+}
+
+.Vector_7 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 23.62px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Vector_8 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 40.50px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Vector_9 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Ell4{
+    width: 54px; 
+    height: 50px; 
+    left: 249px; 
+    top: 93px; 
+    position: absolute;
+}
+
+.Vector_10 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    background: #F1E9D2;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Ell5{
+    width: 54px; 
+    height: 50px; 
+    left: 437px; 
+    top: 94px; 
+    position: absolute;
+}
+
+.Vector_11, .Vector_12, .Vector_13 {
+    width: 6.75px;
+    height: 6.25px;
+    position: absolute;
+    background: #EA5C5A;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Vector_11 {
+    left: 23.62px;
+    top: 21.88px;
+}
+
+.Vector_12 {
+    left: 40.50px;
+    top: 21.88px;
+}
+
+.Vector_13 {
+    left: 6.75px;
+    top: 21.88px;
+}
+
+.Ell6{
+    width: 54px; 
+    height: 50px; 
+    left: 490px; 
+    top: 94px; 
+    position: absolute;
+}
+
+.Vector_14, .Vector_15, .Vector_16 {
+    width: 6.75px;
+    height: 6.25px;
+    position: absolute;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Vector_14 {
+    left: 23.62px;
+    top: 21.88px;
+}
+
+.Vector_15 {
+    left: 40.50px;
+    top: 21.88px;
+}
+
+.Vector_16 {
+    left: 6.75px;
+    top: 21.88px;
+    background: #EA5C5A;
+}
+
+.Ell7{
+    width: 54px; 
+    height: 50px; 
+    left: 540px; 
+    top: 94px; 
+    position: absolute;
+}
+
+.Vector_17, .Vector_18, .Vector_19 {
+    width: 6.75px;
+    height: 6.25px;
+    position: absolute;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Vector_17 {
+    left: 23.62px;
+    top: 21.88px;
+}
+
+.Vector_18 {
+    left: 40.50px;
+    top: 21.88px;
+}
+
+.Vector_19 {
+    left: 6.75px;
+    top: 21.88px;
+}
+
+.Ell8{
+    width: 54px; 
+    height: 50px; 
+    left: 594px; 
+    top: 94px; 
+    position: absolute;
+}
+
+.Vector_20 {
+    width: 6.75px;
+    height: 6.25px;
+    left: 6.75px;
+    top: 21.88px;
+    position: absolute;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Ell9{
+    width: 54px; 
+    height: 50px; 
+    left: 92px; 
+    top: 90px; 
+    position: absolute;
+}
+
+.Vector_21{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 23.62px; 
+    top: 115px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+}
+
+.Vector_22{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 40px; 
+    top: 115px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+}
+
+.Vector_23{
+    width: 6.75px; 
+    height: 6.25px; 
+    left: 6.75px; 
+    top: 115px; 
+    position: absolute; 
+    background: #EA5C5A; 
+    border: 1px black solid; 
+    border-radius: 50%;
+}
+
+.Ell10{
+    width: 54px;
+    height: 50px;
+    left: 145px;
+    top: 90px;
+    position: absolute;
+}
+
+.Vector_24, .Vector_25, .Vector_26 {
+    width: 6.75px;
+    height: 6.25px;
+    position: absolute;
+    background: #F1E9D2;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Vector_24 {
+    left: 23.62px;
+    top: 115px;
+}
+
+.Vector_25 {
+    left: 40.50px;
+    top: 115px;
+}
+
+.Vector_26 {
+    left: 6.75px;
+    top: 115px;
+}
+
+.Ell11{
+    width: 54px;
+    height: 50px;
+    left: 195px;
+    top: 90px;
+    position: absolute;
+}
+
+.Ell12{
+    width: 54px;
+    height: 50px;
+    left: 249px;
+    top: 90px;
+    position: absolute;
+}
+
+.Vector_27, .Vector_28, .Vector_29, .Vector_30 {
+    width: 6.75px;
+    height: 6.25px;
+    position: absolute;
+    background: #F1E9D2;
+    border: 1px black solid;
+    border-radius: 50%;
+}
+
+.Vector_27 {
+    left: 23.62px;
+    top: 115px;
+}
+
+.Vector_28 {
+    left: 40.50px;
+    top: 115px;
+}
+
+.Vector_29 {
+    left: 6.75px;
+    top: 115px;
+}
+
+.Vector_30 {
+    left: 6.75px;
+    top: 115px; /* Same position as Vector_30 */
+}
+
+@media(max-width:320px){
+    
+    .Language1 {
+        display: flex;
+        width: 90vw;  /* Adjust width to fit within 320px screen */
+        height: 80px; /* Adjust height proportionally */
+        left: 5vw;    /* Centering adjustment if needed */
+        top: 210vh;
+        flex-direction: column;
+        overflow: hidden;
+      }
+    
+      .Language2 {
+        width: 200px; /* Shrink width for small screen */
+        height: 200px; /* Adjust height proportionally */
+        top: 5vh;
+        left: 50vw;    /* Centering adjustment if needed */
+        font-size: 15px;
+      }
+
+      .Ell1, 
+      .Ell2, 
+      .Ell3,
+      .Ell4,
+      .Ell5,
+      .Ell6,
+      .Ell7,
+      .Ell8,
+      .Ell9,
+      .Ell10,
+      .Ell11,
+      .Ell12
+      {
+       display: none;
+      }
+      
+      .Ell1{
+        left: 1vw;
+        top: 1vh;
+      }
+
+      .Ell2{
+        left: 7vw;
+        top: 1vh;
+      }
+
+      .Ell3{
+        left: 13vw;
+        top: 1vh;
+      }
+
+      .Ell4{
+        left: 19vw;
+        top: 1vh;
+      }
+
+      .Ell5{
+        left: 1vw;
+        top: 4vh;
+      }
+
+      .Ell6{
+        left: 7vw;
+        top: 4vh;
+      }
+
+      .Ell7{
+        left: 13vw;
+        top: 4vh;
+      }
+
+      .Ell8{
+        left: 19vw;
+        top: 4vh;
+      }
+
+      .Ell9{
+        left: 1vw;
+        top: -7vh;
+      }
+
+      .Ell10{
+        left: 7vw;
+        top: -7vh;
+      }
+
+      .Ell11{
+        left: 13vw;
+        top: -7vh;
+      }
+
+      .Ell12{
+        left: 19vw;
+        top: -7vh;
+      }
+
+
+      .Ellipse5, .Ellipse6, .Ellipse7{
+        width: 20px; 
+        height: 20px; 
+    }
+
+    .Ellipse5{top: 9vh; left: 50vw;}
+    .Ellipse6{top: 9vh; left: 65vw;}
+    .Ellipse7{top: 9vh; left: 80vw;}
+
+    .En{
+       font-size: 8px;
+       top: 9.8vh; 
+       left: 81vw;
+    }
+
+    .Native{
+        font-size: 5px;
+        top: 10.5vh; 
+       left: 80.5vw;
+    }
+
+    .Fil{
+        font-size: 8px;
+        top: 9.8vh; 
+        left: 65.7vw;
+     }
+
+     .Ceb{
+        font-size: 8px;
+        top: 9.8vh; 
+        left: 50vw;
+     }
+}
+
+@media (min-width: 375px) {
+  .Language1 {
+    display: flex;
+    width: 90vw; /* Adjust width to fit within 375px screen */
+    height: 80px; /* Adjust height proportionally */
+    left: 5vw; /* Centering adjustment if needed */
+    top: 210vh;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .Language2 {
+    width: 200px; /* Shrink width for small screen */
+    height: 200px; /* Adjust height proportionally */
+    top: 5vh;
+    left: 50vw; /* Centering adjustment if needed */
+    font-size: 15px;
+  }
+
+  .Ell1,
+  .Ell2,
+  .Ell3,
+  .Ell4,
+  .Ell5,
+  .Ell6,
+  .Ell7,
+  .Ell8,
+  .Ell9,
+  .Ell10,
+  .Ell11,
+  .Ell12 {
+    display: none;
+  }
+
+  .Ellipse5,
+  .Ellipse6,
+  .Ellipse7 {
+    width: 20px;
+    height: 20px;
+  }
+
+  .Ellipse5 {
+    top: 9vh;
+    left: 50vw;
+  }
+
+  .Ellipse6 {
+    top: 9vh;
+    left: 65vw;
+  }
+
+  .Ellipse7 {
+    top: 9vh;
+    left: 80vw;
+  }
+
+  .En {
+    font-size: 8px;
+    top: 9.8vh;
+    left: 81vw;
+  }
+
+  .Native {
+    font-size: 5px;
+    top: 10.5vh;
+    left: 50.2vw;
+  }
+
+  .Fil {
+    font-size: 8px;
+    top: 9.8vh;
+    left: 65.7vw;
+  }
+
+  .Ceb {
+    font-size: 8px;
+    top: 9.8vh;
+    left: 50vw;
+  }
+}
+
+@media(min-width:768px){
+    
+    .Language1 {
+        display: flex;
+        width: 49vw;  /* Adjust width to fit within 320px screen */
+        height: 20vh; /* Adjust height proportionally */
+        left: 50vw;    /* Centering adjustment if needed */
+        top: 250vh;
+        flex-direction: column;
+        overflow: hidden;
+      }
+    
+      .Language2 {
+        width: 200px; /* Shrink width for small screen */
+        height: 200px; /* Adjust height proportionally */
+        top: 1vh;
+        left: 2vw;    /* Centering adjustment if needed */
+        font-size: 30px;
+      }
+
+      .Ell1, 
+      .Ell2, 
+      .Ell3,
+      .Ell4,
+      .Ell5,
+      .Ell6,
+      .Ell7,
+      .Ell8,
+      .Ell9,
+      .Ell10,
+      .Ell11,
+      .Ell12
+      {
+       display: none;
+      }
+      
+      .Ell1{
+        left: 1vw;
+        top: 1vh;
+      }
+
+      .Ell2{
+        left: 7vw;
+        top: 1vh;
+      }
+
+      .Ell3{
+        left: 13vw;
+        top: 1vh;
+      }
+
+      .Ell4{
+        left: 19vw;
+        top: 1vh;
+      }
+
+      .Ell5{
+        left: 1vw;
+        top: 4vh;
+      }
+
+      .Ell6{
+        left: 7vw;
+        top: 4vh;
+      }
+
+      .Ell7{
+        left: 13vw;
+        top: 4vh;
+      }
+
+      .Ell8{
+        left: 19vw;
+        top: 4vh;
+      }
+
+      .Ell9{
+        left: 1vw;
+        top: -7vh;
+      }
+
+      .Ell10{
+        left: 7vw;
+        top: -7vh;
+      }
+
+      .Ell11{
+        left: 13vw;
+        top: -7vh;
+      }
+
+      .Ell12{
+        left: 19vw;
+        top: -7vh;
+      }
+
+      .Ellipse5, .Ellipse6, .Ellipse7{
+        width: 100px; 
+        height: 50px; 
+    }
+
+    .Ellipse5{top: 10vh; left: 2vw;}
+    .Ellipse6{top: 10vh; left: 18vw;}
+    .Ellipse7{top: 10vh; left: 35vw;}
+
+    .En{
+       font-size: 29px;
+       top: 10.4vh; 
+       left: 38.5vw;
+    }
+
+    .Native{
+        font-size: 15px;
+        top: 14vh; 
+       left: 5vw;
+    }
+
+    .Fil{
+        font-size: 29px;
+        top: 10.5vh; 
+        left: 20.8vw;
+     }
+
+     .Ceb{
+        font-size: 30px;
+        top: 10.5vh; 
+        left: 3.8vw;
+     }
+}
+
+@media(min-width:1024px){
+ .En{
+  left: 37.5vw;
+ }
+
+ .Native{
+  left: 4.3 vw;
+ }
+
+ .Fil{
+  left: 20vw;
+ }
+
+ .Ceb{
+  left: 3.3vw;
+ }
+}
+
+@media(min-width: 1366px){
+  .Language1{
+    width: 49vw; 
+    height: 244px; 
+    left: 685px; 
+    top: 2210px; 
+    position: absolute;
+ }
+ 
+ .Language2{
+      width: 272px; 
+      height: 65px; 
+      left: 0px; 
+      top: 0px; 
+      position: absolute; 
+      color: black; 
+      font-size: 45px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+ }
+ 
+ .Ellipse5{
+     width: 20vw; 
+     height: 70px; 
+     left: 0px; 
+     top: 81px; 
+     position: absolute; 
+     background: #707E4C; 
+     border-radius: 9999px;
+ }
+ 
+ .Ellipse7{
+     width: 20vw; 
+     height: 70px; 
+     left: 0px; 
+     top: 167px; 
+     position: absolute; 
+     background: #707E4C; 
+     border-radius: 9999px;
+ }
+ 
+ .Ceb{
+      left: 7vw; 
+      top: 95px; 
+      position: absolute; 
+      color: white; 
+      font-size: 30px; 
+      font-family: Bevan; 
+      font-weight: 400; 
+      word-wrap: break-word;
+ }
+ 
+ .Ellipse6{
+      width: 20vw;
+      height: 70px; 
+      left: 345px; 
+      top: 81px; 
+      position: absolute; 
+      background: #707E4C; 
+      border-radius: 9999px;
+ }
+ 
+ .En{
+     left: 33.5vw; 
+     top: 95px; 
+     position: absolute; 
+     color: white; 
+     font-size: 30px; 
+     font-family: Bevan; 
+     font-weight: 400; 
+     word-wrap: break-word;
+ }
+ 
+ .Fil{
+     left: 7.5vw; 
+     top: 184px; 
+     position: absolute; 
+     color: white; 
+     font-size: 30px; 
+     font-family: Bevan; 
+     font-weight: 400; word-wrap: break-word;
+ }
+ 
+ .Native{
+     width: 100px; 
+     left: 7.5vw; 
+     top: 115px; 
+     position: absolute; 
+     color: #F37876; 
+     font-size: 17px; 
+     font-family: Comfortaa; 
+     font-weight: 600; 
+     word-wrap: break-word; 
+     -webkit-text-stroke-width: .4px;
+     -webkit-text-stroke-color: rgb(0, 0, 0);
+ }
+ 
+ .Ell1{
+     width: 54px; 
+     height: 50px; 
+     left: 92px; 
+     top: 93px; 
+     position: absolute;
+ }
+ 
+ .Vector_1{
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 23.62px; 
+     top: 21.88px; 
+     position: absolute;
+      background: #EA5C5A; 
+      border: 1px black solid; 
+      border-radius: 50%;
+ }
+ 
+ .Vector_2 {
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 40.50px; 
+     top: 21.88px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+ }
+ 
+ .Vector_3 {
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 6.75px; 
+     top: 21.88px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+ }
+ 
+ .Ell2{
+     width: 54px; 
+     height: 50px; 
+     left: 145px; 
+     top: 93px; 
+     position: absolute;
+ }
+ 
+ .Vector_4 {
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 23.62px; 
+     top: 21.88px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+ }
+ 
+ .Vector_5 {
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 40.50px; 
+     top: 21.88px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+ }
+ 
+ .Vector_6 {
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 6.75px; 
+     top: 21.88px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+ }
+ 
+ .Ell3{
+     width: 54px; 
+     height: 50px; 
+     left: 195px; 
+     top: 93px; 
+     position: absolute;
+ }
+ 
+ .Vector_7 {
+     width: 6.75px;
+     height: 6.25px;
+     left: 23.62px;
+     top: 21.88px;
+     position: absolute;
+     background: #EA5C5A;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Vector_8 {
+     width: 6.75px;
+     height: 6.25px;
+     left: 40.50px;
+     top: 21.88px;
+     position: absolute;
+     background: #EA5C5A;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Vector_9 {
+     width: 6.75px;
+     height: 6.25px;
+     left: 6.75px;
+     top: 21.88px;
+     position: absolute;
+     background: #EA5C5A;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Ell4{
+     width: 54px; 
+     height: 50px; 
+     left: 249px; 
+     top: 93px; 
+     position: absolute;
+ }
+ 
+ .Vector_10 {
+     width: 6.75px;
+     height: 6.25px;
+     left: 6.75px;
+     top: 21.88px;
+     position: absolute;
+     background: #F1E9D2;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Ell5{
+     width: 54px; 
+     height: 50px; 
+     left: 437px; 
+     top: 94px; 
+     position: absolute;
+ }
+ 
+ .Vector_11, .Vector_12, .Vector_13 {
+     width: 6.75px;
+     height: 6.25px;
+     position: absolute;
+     background: #EA5C5A;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Vector_11 {
+     left: 23.62px;
+     top: 21.88px;
+ }
+ 
+ .Vector_12 {
+     left: 40.50px;
+     top: 21.88px;
+ }
+ 
+ .Vector_13 {
+     left: 6.75px;
+     top: 21.88px;
+ }
+ 
+ .Ell6{
+     width: 54px; 
+     height: 50px; 
+     left: 490px; 
+     top: 94px; 
+     position: absolute;
+ }
+ 
+ .Vector_14, .Vector_15, .Vector_16 {
+     width: 6.75px;
+     height: 6.25px;
+     position: absolute;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Vector_14 {
+     left: 23.62px;
+     top: 21.88px;
+ }
+ 
+ .Vector_15 {
+     left: 40.50px;
+     top: 21.88px;
+ }
+ 
+ .Vector_16 {
+     left: 6.75px;
+     top: 21.88px;
+     background: #EA5C5A;
+ }
+ 
+ .Ell7{
+     width: 54px; 
+     height: 50px; 
+     left: 540px; 
+     top: 94px; 
+     position: absolute;
+ }
+ 
+ .Vector_17, .Vector_18, .Vector_19 {
+     width: 6.75px;
+     height: 6.25px;
+     position: absolute;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Vector_17 {
+     left: 23.62px;
+     top: 21.88px;
+ }
+ 
+ .Vector_18 {
+     left: 40.50px;
+     top: 21.88px;
+ }
+ 
+ .Vector_19 {
+     left: 6.75px;
+     top: 21.88px;
+ }
+ 
+ .Ell8{
+     width: 54px; 
+     height: 50px; 
+     left: 594px; 
+     top: 94px; 
+     position: absolute;
+ }
+ 
+ .Vector_20 {
+     width: 6.75px;
+     height: 6.25px;
+     left: 6.75px;
+     top: 21.88px;
+     position: absolute;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Ell9{
+     width: 54px; 
+     height: 50px; 
+     left: 92px; 
+     top: 90px; 
+     position: absolute;
+ }
+ 
+ .Vector_21{
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 23.62px; 
+     top: 115px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+ }
+ 
+ .Vector_22{
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 40px; 
+     top: 115px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+ }
+ 
+ .Vector_23{
+     width: 6.75px; 
+     height: 6.25px; 
+     left: 6.75px; 
+     top: 115px; 
+     position: absolute; 
+     background: #EA5C5A; 
+     border: 1px black solid; 
+     border-radius: 50%;
+ }
+ 
+ .Ell10{
+     width: 54px;
+     height: 50px;
+     left: 145px;
+     top: 90px;
+     position: absolute;
+ }
+ 
+ .Vector_24, .Vector_25, .Vector_26 {
+     width: 6.75px;
+     height: 6.25px;
+     position: absolute;
+     background: #F1E9D2;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Vector_24 {
+     left: 23.62px;
+     top: 115px;
+ }
+ 
+ .Vector_25 {
+     left: 40.50px;
+     top: 115px;
+ }
+ 
+ .Vector_26 {
+     left: 6.75px;
+     top: 115px;
+ }
+ 
+ .Ell11{
+     width: 54px;
+     height: 50px;
+     left: 195px;
+     top: 90px;
+     position: absolute;
+ }
+ 
+ .Ell12{
+     width: 54px;
+     height: 50px;
+     left: 249px;
+     top: 90px;
+     position: absolute;
+ }
+ 
+ .Vector_27, .Vector_28, .Vector_29, .Vector_30 {
+     width: 6.75px;
+     height: 6.25px;
+     position: absolute;
+     background: #F1E9D2;
+     border: 1px black solid;
+     border-radius: 50%;
+ }
+ 
+ .Vector_27 {
+     left: 23.62px;
+     top: 115px;
+ }
+ 
+ .Vector_28 {
+     left: 40.50px;
+     top: 115px;
+ }
+ 
+ .Vector_29 {
+     left: 6.75px;
+     top: 115px;
+ }
+ 
+ .Vector_30 {
+     left: 6.75px;
+     top: 115px; /* Same position as Vector_30 */
+ }
+}
+@media(min-width:1440px){
+    
+    .Language1 {
+        display: flex;
+        width: 49vw;  /* Adjust width to fit within 320px screen */
+        height: 23vh; /* Adjust height proportionally */
+        left: 50vw;    /* Centering adjustment if needed */
+        top: 307vh;
+        flex-direction: column;
+        overflow: hidden;
+      }
+    
+      .Language2 {
+        width: 200px; /* Shrink width for small screen */
+        height: 200px; /* Adjust height proportionally */
+        top: 1vh;
+        left: 2vw;    /* Centering adjustment if needed */
+        font-size: 5vh;
+      }
+
+      .Ell1, 
+      .Ell2, 
+      .Ell3,
+      .Ell4,
+      .Ell5,
+      .Ell6,
+      .Ell7,
+      .Ell8,
+      .Ell9,
+      .Ell10,
+      .Ell11,
+      .Ell12
+      {
+       display: none;
+      }
+      
+      .Ell1{
+        left: 1vw;
+        top: 1vh;
+      }
+
+      .Ell2{
+        left: 7vw;
+        top: 1vh;
+      }
+
+      .Ell3{
+        left: 13vw;
+        top: 1vh;
+      }
+
+      .Ell4{
+        left: 19vw;
+        top: 1vh;
+      }
+
+      .Ell5{
+        left: 1vw;
+        top: 4vh;
+      }
+
+      .Ell6{
+        left: 7vw;
+        top: 4vh;
+      }
+
+      .Ell7{
+        left: 13vw;
+        top: 4vh;
+      }
+
+      .Ell8{
+        left: 19vw;
+        top: 4vh;
+      }
+
+      .Ell9{
+        left: 1vw;
+        top: -7vh;
+      }
+
+      .Ell10{
+        left: 7vw;
+        top: -7vh;
+      }
+
+      .Ell11{
+        left: 13vw;
+        top: -7vh;
+      }
+
+      .Ell12{
+        left: 19vw;
+        top: -7vh;
+      }
+
+      .Ellipse5, .Ellipse6, .Ellipse7{
+        width: 200px; 
+        height: 50px; 
+    }
+
+    .Ellipse5{top: 10vh; left: 2vw;}
+    .Ellipse6{top: 10vh; left: 18vw;}
+    .Ellipse7{top: 10vh; left: 35vw;}
+
+    .En{
+       font-size: 29px;
+       top: 10.4vh; 
+       left: 40vw;
+    }
+
+    .Native{
+        font-size: 15px;
+        top: 14vh; 
+       left: 7vw;
+    }
+
+    .Fil{
+        font-size: 29px;
+        top: 10.5vh; 
+        left: 23vw;
+     }
+
+     .Ceb{
+        font-size: 30px;
+        top: 10.5vh; 
+        left: 6.2vw;
+     }
+}

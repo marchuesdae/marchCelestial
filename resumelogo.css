@@ -1,0 +1,210 @@
+.ResumeLogo{
+    width: 667px; 
+    height: 441px; 
+    left: 670px; 
+    top: 1269px; 
+    position: absolute;
+  }
+  
+  .Resume_Top{
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: transparent; 
+    font-size: 128px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 1.9px; 
+    -webkit-text-stroke-color: #F37876;
+  }
+  
+  .Resume_Middle{
+    left: 1px; 
+    top: 118px; 
+    position: absolute; 
+    color: transparent; 
+    font-size: 128px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 1.9px; 
+    -webkit-text-stroke-color: #EA5C5A;
+  }
+  
+  .Resume_Bottom{
+    left: 2px; 
+    top: 235px; 
+    position: absolute; 
+    color: transparent; 
+    font-size: 128px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 1.9px; 
+    -webkit-text-stroke-color: #D3413F;
+  }
+
+@media (max-width: 320px){
+  
+  .ResumeLogo{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    top: 100vh;
+    left: 0vw;
+    overflow: hidden;
+  }
+
+  .Resume_Top, .Resume_Middle, .Resume_Bottom{
+    font-size: 4.1vh;
+    left: 59.5vw;
+    -webkit-text-stroke-width: 1px; 
+    flex-direction: column;
+  }
+
+  .Resume_Top   { top: 43vh; }
+  .Resume_Middle{ top: 46.5vh; }
+  .Resume_Bottom{ top: 50.5vh; }
+}
+
+@media (min-width: 375px) {
+  .ResumeLogo {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    top: 100vh;
+    left: 0vw;
+    overflow: hidden;
+}
+
+  .Resume_Top, .Resume_Middle, .Resume_Bottom {
+      font-size: 5vh; /* Default font size */
+      width: 100%; /* Full width */
+      left: 58vw;
+  }
+
+  .Resume_Top   { margin-top: 43vh; } /* Adjust margin for spacing */
+  .Resume_Middle{ margin-top:28vh; }  /* Adjust margin for spacing */
+  .Resume_Bottom{ margin-top: 13vh; }  /* Adjust margin for spacing */
+}
+
+@media (min-width: 768px){
+  .ResumeLogo{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    top: 100vh;
+    left: 0vw;
+  }
+
+  .Resume_Top, .Resume_Middle, .Resume_Bottom{
+    display: flex;
+    width: 40vw; 
+    height: 25vh; 
+    font-size: 10vh;
+    left: 55vw;
+    -webkit-text-stroke-width: 1px; 
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .Resume_Top   { top: 21vh; }
+  .Resume_Middle{ top: 45vh; }
+  .Resume_Bottom{ top: 69vh; }
+}
+
+@media(min-width: 1024px){
+  .ResumeLogo{
+    display: flex;
+  }
+
+  .Resume_Top, .Resume_Bottom, .Resume_Middle{
+    text-align: center;
+    font-size: 12vh;
+  }
+
+  .Resume_Top{top: 18vh;}
+  .Resume_Middle{top: 43vh;}
+  .Resume_Bottom{top: 68vh;}
+}
+
+@media(min-width: 1366px){
+  .ResumeLogo{
+    display: flex;
+    width: 667px; 
+    height: 80vh; 
+    left: 670px; 
+    top: 161.5vh; 
+    position: absolute;
+  }
+  
+  .Resume_Top{
+    display: flex;
+    left: 1px; 
+    top: 10vh; 
+    position: absolute; 
+    color: transparent; 
+    font-size: 128px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 1.9px; 
+    -webkit-text-stroke-color:#D3413F;
+    width: 50vw;
+  }
+  
+  .Resume_Middle{
+    width: 50vw;
+    left: 1px; 
+    top: 10vh; 
+    position: absolute; 
+    color: transparent; 
+    font-size: 128px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 1.9px; 
+    -webkit-text-stroke-color: #EA5C5A;
+  }
+  
+  .Resume_Bottom{
+    width: 50vw;
+    left: 1px; 
+    top: 10vh; 
+    position: absolute; 
+    color: transparent; 
+    font-size: 128px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 1.9px; 
+    -webkit-text-stroke-color: #F37876;
+  }
+}
+
+@media (min-width: 1440px){
+  .ResumeLogo{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    top: 110vh;
+    left: 0vw;
+  }
+
+  .Resume_Top, .Resume_Middle, .Resume_Bottom{
+    display: flex;
+    width: 50vw; 
+    height: 25vh; 
+    font-size: 15vh;
+    left: 50vw;
+    -webkit-text-stroke-width: 1px; 
+    flex-direction: column;
+    overflow: hidden;
+    letter-spacing: 1vw;
+  }
+
+  .Resume_Top   { top: 68vh; }
+  .Resume_Middle{ top: 80.5vh; }
+  .Resume_Bottom{ top: 93vh; }
+}

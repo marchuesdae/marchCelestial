@@ -1,0 +1,762 @@
+/* *THIRD SECTION */
+
+/* Education */
+
+.Education{
+    width: 1440px; 
+    height: 574px; 
+    left: 0px; 
+    top: 1345px; 
+    position: absolute;
+  }
+  
+  /* Rectangle in Education Section */
+  .Rectangle13_Edu{
+    width: 100vw; 
+    height: 574px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #9AA972;
+  }
+  
+  /* Cordova Public College */
+  .CordovaPublicCollege{
+    width: 279px; 
+    left: 290px; 
+    top: 155px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    word-wrap: break-word
+  }
+  
+  /* Asian Learning Center */
+  .AsianLearningCenter{
+    width: 271px; 
+    left: 290px; 
+    top: 235px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    word-wrap: break-word;
+  }
+  
+  /* MarigondonNationalHs */
+  .MarigondonNationalHs{
+    width: 302px; 
+    left: 290px; 
+    top: 310px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    word-wrap: break-word
+  }
+  
+  /* Suba Masulog Elementary School */
+  .SubaMasulogEs{
+    width: 218px; 
+    left: 290px; 
+    top: 380px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    letter-spacing: 1px;
+    word-wrap: break-word;
+  }
+  
+  /* Education Text */
+  .Education_text{
+    width: 292px; 
+    height: 65px; 
+    left: 137px; 
+    top: 44px; 
+    position: absolute; 
+    color: #EA5C5A; 
+    font-size: 45px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 0.5px; 
+    -webkit-text-stroke-color: white;
+  }
+  
+  /* Line Below The Heart ICONS */
+  .Line1{
+    width: 44px; 
+    height: 0px; 
+    left: 117px; 
+    top: 186px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    border: 1px #F37876 solid;
+  }
+  
+  .Line2{
+    width: 44px; 
+    height: 0px; 
+    left: 117px; 
+    top: 265px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    border: 1px #F37876 solid;
+  }
+  
+  .Line3{
+    width: 44px; 
+    height: 0px; 
+    left: 117px; 
+    top: 339px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    border: 1px #F37876 solid;
+  }
+  
+  /* School Year */
+  .year2027{
+    width: 146px; 
+    height: 34px; 
+    left: 137px; 
+    top: 150px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .year2022{
+    width: 146px; 
+    height: 34px; 
+    left: 137px; 
+    top: 230px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .year2020{
+    width: 146px; 
+    height: 34px; 
+    left: 137px; 
+    top: 305px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .year2016{
+    width: 146px; 
+    height: 34px; 
+    left: 137px; 
+    top: 377px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  /* Major */
+  .BachelorOfScienceInInformationTechnology{
+    width: 275px; 
+    left: 290px; 
+    top: 184px; 
+    position: absolute; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .InformationAndCommunicationTechnology{
+    left: 290px; 
+    top: 264px; 
+    position: absolute; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+
+  @media (max-width: 320px){
+
+
+    .Education{
+       display: flex;
+      width: 320px; 
+      height: 470px; 
+      left: 0px; 
+      top: 146vh; 
+      position: absolute;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    
+    .Rectangle13_Edu{
+      width: 100vw; 
+      height: 45vh; 
+    }
+
+    .Education_text{
+      width: 292px; 
+      height: 65px; 
+      left: 20px; 
+      top: 2vh; 
+      font-size: 20px; 
+      -webkit-text-stroke-width: 0.3px; 
+    }
+
+    .Heart, .Heart2, .Heart3, .Heart4 {
+      width: 1px;
+      height: 1px;
+    }
+
+    .Heart { top: 50px; left: 20px; }
+    .Heart2 { top: 84px; left: 20px; }
+    .Heart3 { top: 118.5px; left: 20px; }
+    .Heart4 { top: 150.8px; left: 20px; }
+
+
+/* Style for the Font Awesome heart icon */
+    .Icon i, .Iconii {
+      font-size: 10px; /* Adjust icon size as needed */
+    }
+
+    /* School Year */
+  .year2027, .year2022, .year2020, .year2016{
+      left: 30px; 
+      font-size: 9.3px; 
+  }
+
+  .year2027{ top:7.8vh;}
+  .year2022{ top:13.5vh; }
+  .year2020{ top:19vh; }
+  .year2016{ top:25vh; }
+
+  .Line1, .Line2, .Line3{
+    width: 4vh;
+    left: 21.5px; 
+  }
+
+  .Line1{ top:9.7vh;}
+  .Line2{ top:15.5vh;}
+  .Line3{ top:21vh;}
+
+  /* Cordova Public College */
+  .CordovaPublicCollege, .AsianLearningCenter, .MarigondonNationalHs, .SubaMasulogEs{
+    left: 30px; 
+    font-size: 8px; 
+  }
+
+  .CordovaPublicCollege{ top: 9.5vh;}
+  .AsianLearningCenter{ top: 15.5vh;}
+  .MarigondonNationalHs{ top: 21vh;}
+  .SubaMasulogEs{ top: 27vh;}
+
+  .BachelorOfScienceInInformationTechnology, .InformationAndCommunicationTechnology{
+    left: 30px; 
+    font-size: 5px; 
+  }
+
+  .BachelorOfScienceInInformationTechnology{ top: 11.5vh; }
+  .InformationAndCommunicationTechnology{ top: 17vh; }
+}
+
+@media (min-width: 375px) {
+  
+  .Education {
+    display: flex;
+    width: 375px; 
+    height: 470px; 
+    left: 0px; 
+    top: 146vh; 
+    position: absolute;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .Rectangle13_Edu {
+    width: 100vw; 
+    height: 45vh; 
+  }
+
+  .Education_text {
+    width: 350px; 
+    height: 65px; 
+    left: 12.5px; 
+    top: 2vh; 
+    font-size: 22px; 
+    -webkit-text-stroke-width: 0.3px; 
+  }
+
+  .Heart, .Heart2, .Heart3, .Heart4 {
+    width: 1px;
+    height: 1px;
+  }
+
+  .Heart { top: 50px; left: 30px; }
+  .Heart2 { top: 84px; left: 30px; }
+  .Heart3 { top: 118.5px; left: 30px; }
+  .Heart4 { top: 150.8px; left: 30px; }
+
+  .Icon i, .Iconii {
+    font-size: 12px; 
+  }
+
+  /* School Year */
+  .year2027, .year2022, .year2020, .year2016 {
+    left: 40px; 
+    font-size: 10px; 
+  }
+
+  .year2027 { top: 7.8vh; }
+  .year2022 { top: 13.5vh; }
+  .year2020 { top: 19vh; }
+  .year2016 { top: 25vh; }
+
+  .Line1, .Line2, .Line3 {
+    width: 4.5vh;
+    left: 31.5px; 
+  }
+
+  .Line1 { top: 9.7vh; }
+  .Line2 { top: 15.5vh; }
+  .Line3 { top: 21vh; }
+
+  /* Cordova Public College */
+  .CordovaPublicCollege, .AsianLearningCenter, .MarigondonNationalHs, .SubaMasulogEs {
+    left: 40px; 
+    font-size: 9px; 
+  }
+
+  .CordovaPublicCollege { top: 9.5vh; }
+  .AsianLearningCenter { top: 15.5vh; }
+  .MarigondonNationalHs { top: 21vh; }
+  .SubaMasulogEs { top: 27vh; }
+
+  .BachelorOfScienceInInformationTechnology, .InformationAndCommunicationTechnology {
+    left: 40px; 
+    font-size: 6px; 
+    line-height: 6px;
+  }
+
+  .BachelorOfScienceInInformationTechnology { top: 11.2vh; }
+  .InformationAndCommunicationTechnology { top: 17.1vh; }
+}
+
+
+@media (min-width: 768px){
+
+
+  .Education{
+    display: flex;
+    width: 100vw; 
+    height: 50vw; 
+    left: 0px; 
+    top: 170vh; 
+    position: absolute;
+    flex-direction: column;
+
+    overflow: hidden;
+  }
+  
+  .Rectangle13_Edu{
+    width: 100vw; 
+    height: 45vh; 
+  }
+
+  .Education_text{
+    width: 292px; 
+    height: 65px; 
+    left: 8vw; 
+    top: 2vh; 
+    font-size: 30px; 
+    -webkit-text-stroke-width: 0.3px; 
+  }
+
+  .Heart, .Heart2, .Heart3, .Heart4 {
+    width: 1px;
+    height: 1px;
+  }
+
+  .Heart { top: 63px; left: 8vw;  }
+  .Heart2 { top: 104px; left: 8vw;  }
+  .Heart3 { top: 143px; left: 8vw;  }
+  .Heart4 { top: 181px; left: 8vw;  }
+
+
+/* Style for the Font Awesome heart icon */
+  .Icon i, .Iconii {
+    font-size: 15px; /* Adjust icon size as needed */
+  }
+
+  /* School Year */
+.year2027, .year2022, .year2020, .year2016{
+    left: 11vw; 
+    font-size: 15px; 
+}
+
+.year2027{ top:9vh;}
+.year2022{ top:16vh; }
+.year2020{ top:22.4vh; }
+.year2016{ top:29vh; }
+
+.Line1, .Line2, .Line3{
+  width: 4vh;
+  left: 8.3vw; 
+}
+
+.Line1{ top:12.3vh;}
+.Line2{ top:19.1vh;}
+.Line3{ top:25.5vh;}
+
+/* Cordova Public College */
+.CordovaPublicCollege, .AsianLearningCenter, .MarigondonNationalHs, .SubaMasulogEs{
+  left: 25vw; 
+  font-size: 10px; 
+}
+
+.CordovaPublicCollege{ top: 10vh;}
+.AsianLearningCenter{ top: 16.5vh;}
+.MarigondonNationalHs{ top: 23vh;}
+.SubaMasulogEs{ top: 29.5vh;}
+
+.BachelorOfScienceInInformationTechnology, .InformationAndCommunicationTechnology{
+  left: 25vw; 
+  font-size: 8px; 
+}
+
+.BachelorOfScienceInInformationTechnology{ top: 13vh; }
+.InformationAndCommunicationTechnology{ top: 19vh; }
+}
+
+@media(min-width: 1366px){
+  .Education{
+    display: flex;
+    width: 100vw; 
+    height: 72vh; 
+    left: 0px; 
+    top: 1345px; 
+    position: absolute;
+  }
+  
+  /* Rectangle in Education Section */
+  .Rectangle13_Edu{
+    width: 100vw; 
+    height: 574px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #9AA972;
+  }
+  
+  /* Cordova Public College */
+  .CordovaPublicCollege{
+    width: 279px; 
+    left: 290px; 
+    top: 155px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    word-wrap: break-word
+  }
+   /* Asian Learning Center */
+   .AsianLearningCenter{
+    width: 271px; 
+    left: 290px; 
+    top: 235px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    word-wrap: break-word;
+  }
+  
+  /* MarigondonNationalHs */
+  .MarigondonNationalHs{
+    width: 302px; 
+    left: 290px; 
+    top: 310px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    word-wrap: break-word
+  }
+  
+  /* Suba Masulog Elementary School */
+  .SubaMasulogEs{
+    width: 218px; 
+    left: 290px; 
+    top: 380px; 
+    position: absolute; 
+    text-align: justify; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Comfortaa; 
+    font-weight: 600; 
+    letter-spacing: 1px;
+    word-wrap: break-word;
+  }
+  
+  /* Education Text */
+  .Education_text{
+    width: 292px; 
+    height: 65px; 
+    left: 137px; 
+    top: 44px; 
+    position: absolute; 
+    color: #EA5C5A; 
+    font-size: 45px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word; 
+    -webkit-text-stroke-width: 0.5px; 
+    -webkit-text-stroke-color: white;
+  }
+
+  .Heart, .Heart2, .Heart3, .Heart4 {
+    width: 1px;
+    height: 1px;
+  }
+
+  .Heart { top: 25vh; left: 8.4vw; }
+  .Heart2 { top: 36.5vh; left: 8.4vw; }
+  .Heart3 { top: 47.5vh; left: 8.4vw; }
+  .Heart4 { top: 58.5vh; left: 8.4vw; }
+
+  .Icon i, .Iconii {
+    font-size: 20px; 
+  }
+  
+  /* Line Below The Heart ICONS */
+  .Line1{
+    width: 44px; 
+    height: 0px; 
+    left: 117px; 
+    top: 186px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    border: 1px #F37876 solid;
+  }
+  
+  .Line2{
+    width: 44px; 
+    height: 0px; 
+    left: 117px; 
+    top: 265px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    border: 1px #F37876 solid;
+  }
+  
+  .Line3{
+    width: 44px; 
+    height: 0px; 
+    left: 117px; 
+    top: 339px; 
+    position: absolute; 
+    transform: rotate(90deg); 
+    transform-origin: 0 0; 
+    border: 1px #F37876 solid;
+  }
+  
+  /* School Year */
+  .year2027{
+    width: 146px; 
+    height: 34px; 
+    left: 137px; 
+    top: 150px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .year2022{
+    width: 146px; 
+    height: 34px; 
+    left: 137px; 
+    top: 230px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .year2020{
+    width: 146px; 
+    height: 34px; 
+    left: 137px; 
+    top: 305px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  .year2016{
+    width: 146px; 
+    height: 34px; 
+    left: 137px; 
+    top: 377px; 
+    position: absolute; 
+    color: white; 
+    font-size: 24px; 
+    font-family: Bevan; 
+    font-weight: 400; 
+    word-wrap: break-word;
+  }
+  
+  /* Major */
+  .BachelorOfScienceInInformationTechnology{
+    width: 275px; 
+    left: 290px; 
+    top: 184px; 
+    position: absolute; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: 3vh;
+  }
+  
+  .InformationAndCommunicationTechnology{
+    left: 290px; 
+    top: 264px; 
+    position: absolute; 
+    color: white; 
+    font-size: 15px; 
+    font-family: Comfortaa; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    line-height: 3vh;
+  }
+}
+
+@media (min-width: 1440px){
+
+
+  .Education{
+    display: flex;
+    width: 100vw; 
+    height: 40vw; 
+    left: 0px; 
+    top: 190vh; 
+    position: absolute;
+    flex-direction: column;
+
+    overflow: hidden;
+  }
+  
+  .Rectangle13_Edu{
+    width: 100vw; 
+    height: 65vh; 
+  }
+
+  .Education_text{
+    width: 400px; 
+    height: 65px; 
+    left: 5vw; 
+    top: 3vh; 
+    font-size: 8vh; 
+    -webkit-text-stroke-width: 0.3px; 
+  }
+
+  .Heart, .Heart2, .Heart3, .Heart4 {
+    width: 30px;
+    height: 30px;
+  }
+
+  .Heart { top: 120px; left: 5vw;  }
+  .Heart2 { top: 170px; left: 5vw;  }
+  .Heart3 { top: 220px; left: 5vw;  }
+  .Heart4 { top: 270px; left: 5vw;  }
+
+
+/* Style for the Font Awesome heart icon */
+  .Icon i, .Iconii {
+    font-size: 25px; /* Adjust icon size as needed */
+  }
+
+  /* School Year */
+.year2027, .year2022, .year2020, .year2016{
+    left: 8vw; 
+    font-size: 3vh; 
+}
+
+.year2027{ top:18vh;}
+.year2022{ top:26vh; }
+.year2020{ top:33vh; }
+.year2016{ top:41vh; }
+
+.Line1, .Line2, .Line3{
+  width: 4vh;
+  left: 6.1vw; 
+}
+
+.Line1{ top:22.4vh;}
+.Line2{ top:30vh;}
+.Line3{ top:37.4vh;}
+
+/* Cordova Public College */
+.CordovaPublicCollege, .AsianLearningCenter, .MarigondonNationalHs, .SubaMasulogEs{
+  left: 20vw; 
+  font-size: 2.6vh; 
+}
+
+.CordovaPublicCollege{ top: 18.5vh;}
+.AsianLearningCenter{ top: 26.5vh;}
+.MarigondonNationalHs{ top: 33.5vh;}
+.SubaMasulogEs{ top: 41.5vh; }
+
+.BachelorOfScienceInInformationTechnology, .InformationAndCommunicationTechnology{
+  left: 20vw; 
+  font-size: 1.5vh; 
+}
+
+.BachelorOfScienceInInformationTechnology{ top: 22vh; }
+.InformationAndCommunicationTechnology{ top: 30vh; }
+}
